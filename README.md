@@ -6,7 +6,9 @@
 
 ## How to use 
 
-Fork it and add your status using :heavy_check_mark: (applied) or :x: for rejected (or just text)
+Fork it and add your status using :heavy_check_mark: (applied) or :x: for rejected (or just text).
+
+Star and Watch the repo and pull new changes regularly.
 
 <hr>
 
