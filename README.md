@@ -1,9 +1,6 @@
-# Summer 2022 Tech Internships by ACM 🤿👩‍💻
+# Summer 2022 Tech Internships 🤿👩‍💻
 
-
-:warning: **This repository is only for internships for Egyptian students:.**
-
- 📈 For tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
+:warning: **This repository is Egyptian students internships:.**
 
 🤗 **Contribute by submitting a [pull request]() or [filling out this form]()!**  🤗
 
