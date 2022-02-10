@@ -4,7 +4,7 @@
 
 ## The List 👔
 
-| Name  |  Location |  Notes |
-|---|---|-------------|
-|[example]() |  | Example |
-|<del>Gusto</del> | | **Closed** |
+| Name  |  Location |  Notes | status |
+|---|---|-------------|--|
+|[example]() | example | Example | :heavy_check_mark: (applied) |
+|<del>Gusto</del> | | **Closed** | :x: rejected |
