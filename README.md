@@ -20,10 +20,10 @@ Star and Watch the repo and pull new changes regularly.
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source |
 |[Outreachy](https://www.outreachy.org/) | Remote | Open source  |
-|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Remote internship |
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Remote internship |
-|[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source - Remote internship |
-|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source - Remote internship |
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source |
+|[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source |
+|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
