@@ -25,7 +25,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) |
 |[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | | |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | | |
-|<del>ATLC Microsoft(https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/)</del> | Cairo | Closed |
+|<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
