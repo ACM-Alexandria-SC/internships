@@ -18,12 +18,12 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | Open source  |
+|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | Open source |
 |[Outreachy](https://www.outreachy.org/) | | Open source  |
-|[MLH Fellowship](https://fellowship.mlh.io/) | | Remote internship |
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) |
-|[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | | |
-|[LFX Mentorship](https://lnkd.in/gzaGkamS) | | |
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Remote internship |
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Remote internship |
+|[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source - Remote internship |
+|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source - Remote internship |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
