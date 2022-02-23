@@ -16,12 +16,12 @@ Star and Watch the repo and pull new changes regularly.
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|<del>some company</del> | | **Closed** | :x: rejected |
-|[Google Summer of Code](https://summerofcode.withgoogle.com/) | remote | start preparing now as they require a proposal | |
+|<del>some company</del> | | **Closed** | :x: Rejected |
+|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
 |[Microsoft Advanced Technology Lab](https://survey.alchemer.com/s3/6658854/Microsoft-Advanced-Technology-Lab-Cairo-Summer-Engineering-Program-2022) | Cairo | |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | open source  |
-|[Outreachy](https://www.outreachy.org/) | | open source  |
-|[MLH Fellowship](https://fellowship.mlh.io/) | | remote internship |
+|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | Open source  |
+|[Outreachy](https://www.outreachy.org/) | | Open source  |
+|[MLH Fellowship](https://fellowship.mlh.io/) | | Remote internship |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) |
 |[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | | |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | | |
