@@ -18,8 +18,8 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | Open source |
-|[Outreachy](https://www.outreachy.org/) | | Open source  |
+|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source |
+|[Outreachy](https://www.outreachy.org/) | Remote | Open source  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Remote internship |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Remote internship |
 |[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source - Remote internship |
