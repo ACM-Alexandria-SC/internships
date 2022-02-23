@@ -18,7 +18,6 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
-|[Microsoft Advanced Technology Lab](https://survey.alchemer.com/s3/6658854/Microsoft-Advanced-Technology-Lab-Cairo-Summer-Engineering-Program-2022) | Cairo | |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/) | | Open source  |
 |[Outreachy](https://www.outreachy.org/) | | Open source  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | | Remote internship |
