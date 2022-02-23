@@ -46,7 +46,7 @@ Star and Watch the repo and pull new changes regularly.
 
 
 
-**We love our contributors ❤️❤️**
+**We love our contributors 💜💜**
 
 * [Moaz El Defrawy](https://github.com/moaz-eldefrawy)
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
