@@ -31,3 +31,10 @@ Star and Watch the repo and pull new changes regularly.
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
 |[Cegedim](https://careers.cegedim.com/en)| Cairo | Not Yet |
+|[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
+|[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
+|[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
+|[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
+|[Blink22](https://blink22.com/) | Alexandria | Not Yet |
+|[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
+|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Requires 3rd year computer science engineering students |
