@@ -29,7 +29,7 @@ Star and Watch the repo and pull new changes regularly.
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
-|[Cegedim](https://careers.cegedim.com/en)| Cairo | Not Yet |
+|[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
@@ -43,7 +43,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
-
 
 
 **We love our contributors 💜💜**
