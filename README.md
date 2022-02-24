@@ -24,6 +24,9 @@ Star and Watch the repo and pull new changes regularly.
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source |
 |[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
+|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
+|[Rewaa](https://rewaa.recruitee.com/o/uiux-design-intern/c/new?source=LinkedIn%20Limited%20Listings) | Remote | UI/UX Design Intern, Open source |
+|[Iqvia](https://jobs.iqvia.com/job/-/-/24443/23836370240?source=LinkedIn_Slots) | Cairo | Statistical Programmer, Open source |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
