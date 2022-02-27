@@ -22,7 +22,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Outreachy](https://www.outreachy.org/) | Remote | Open source  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source |
-|[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) | Remote | Open source |
+|<del>[GirlScript Summer of Code OpenSource program](https://lnkd.in/gHgJhXiM) </del> | Remote | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
 |[Terminix](https://terminix.wd1.myworkdayjobs.com/en-US/terminix/job/Memphis-Tennessee/Summer-2022-IT-Internship_ER0028554?src=234806) | The program has traditionally been on-site, but hybrid and remote arrangements can be discussed |IT Internship, Open source |
