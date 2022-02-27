@@ -17,7 +17,7 @@ Star and Watch the repo and pull new changes regularly.
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
-|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal | |
+|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - GSoC Contributor Proposal Opens 4 April | |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source |
 |[Outreachy](https://www.outreachy.org/) | Remote | Open source  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
