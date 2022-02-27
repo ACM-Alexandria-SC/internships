@@ -18,10 +18,10 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - Applications for GSoC Contributors Open April 4-19 | |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source |
-|[Outreachy](https://www.outreachy.org/) | Remote | Open source  |
+|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source - Ends March 1 |
+|[Outreachy](https://www.outreachy.org/) | Remote | Open source - Ends March 2 |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source |
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
