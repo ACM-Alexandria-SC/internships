@@ -18,7 +18,7 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |<del>some company</del> | | **Closed** | :x: Rejected |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - Applications for GSoC Contributors Open April 4-19 | |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source - Ends March 1 |
+|[Summer of Bitcoin](https://www.summerofbitcoin.org/) | Remote | Open source - Ends March 5 |
 |[Outreachy](https://www.outreachy.org/) | Remote | Open source - Ends March 2 |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
