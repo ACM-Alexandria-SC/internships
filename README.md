@@ -23,7 +23,6 @@ Star and Watch the repo and pull new changes regularly.
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open source |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
-|<del> Dell (https://jobs.dell.com/job/cairo/undergraduate-intern/375/19583454544)</del>(https://jobs.dell.com/job/cairo/undergraduate-intern/375/19583454544) | Cairo | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
 |[Endvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
