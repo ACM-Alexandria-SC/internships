@@ -14,7 +14,7 @@ Star and Watch the repo and pull new changes regularly.
 
 
 ## For Some Interview Tips: 
-  https://github.com/yangshun/tech-interview-handbook
+  [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 <hr>
 
