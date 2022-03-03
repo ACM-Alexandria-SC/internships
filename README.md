@@ -12,9 +12,9 @@ Star and Watch the repo and pull new changes regularly.
 
 <hr>
 
-<hr>
-## For Some Interview Tips:
-    https://github.com/yangshun/tech-interview-handbook
+
+## For Some Interview Tips: 
+  https://github.com/yangshun/tech-interview-handbook
 
 <hr>
 
