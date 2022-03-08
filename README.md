@@ -13,7 +13,7 @@ Star and Watch the repo and pull new changes regularly.
 <hr>
 
 
-## For Some Interview Tips: 
+## For Some Interview Tips:
   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 <hr>
@@ -35,7 +35,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed |Closed|
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|[Linkedin backend intern](https://www.linkedin.com/jobs/search/?currentJobId=2707291379&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area)| Worldwide | Open |
+|<del>Linkedin backend intern</del>| Worldwide | closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
