@@ -39,6 +39,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |open|
+|[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |open source|
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
