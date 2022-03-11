@@ -40,6 +40,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |open|
 |[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |open source|
+|[Corporatica software intern]() | Cairo |open|
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
