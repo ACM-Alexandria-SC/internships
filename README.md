@@ -41,11 +41,13 @@ Star and Watch the repo and pull new changes regularly.
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |open|
 |[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |open source|
 |[Corporatica software intern]() | Cairo |open|
+|[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
 |[Valeo](https://www.valeo.com/en/egypt/)| Cairo | Not Yet |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
 |[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |
+|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open --- Requires experience in Flutter or PHP |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
