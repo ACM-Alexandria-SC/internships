@@ -38,8 +38,10 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Linkedin backend intern</del>| Worldwide | closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
-|[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |open|
-|[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |open source|
+|[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
+|[Brainnest Frontend Development Internship](https://www.linkedin.com/jobs/search/?currentJobId=2964861131&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
+|[Brainnest Quality Assurance Internship](https://www.linkedin.com/jobs/search/?currentJobId=2958146757&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
+|[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |Open - Open source|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
 |[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
