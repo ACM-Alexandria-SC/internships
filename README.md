@@ -40,6 +40,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
+|[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSfauQc6Byy5apdSoZ6XvX8ZkWxT3dmQBhwveg1XSzS_Uu1Xuw/viewform) | Remote |Open - Start Date Now|
 |[Brainnest Frontend Development Internship](https://www.linkedin.com/jobs/search/?currentJobId=2964861131&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
 |[Brainnest Quality Assurance Internship](https://www.linkedin.com/jobs/search/?currentJobId=2958146757&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
 |[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |Open - Open source|
