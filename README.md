@@ -55,7 +55,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open --- Requires experience in Flutter or PHP |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
-|[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
+|[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
