@@ -31,8 +31,9 @@ Star and Watch the repo and pull new changes regularly.
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000003471752/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Data Analyst Intern, Open source |
+|[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[Edvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
-|<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed |Closed|
+|<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |<del>Linkedin backend intern</del>| Worldwide | closed |
@@ -40,13 +41,14 @@ Star and Watch the repo and pull new changes regularly.
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Jumia Software intern](https://africainternetgroup.peoplehr.net/Pages/JobBoard/Opening.aspx?v=925b0415-c0ff-4c0c-8afc-cdb5c10d8bb4#) | Cairo |Open|
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
+|[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSfauQc6Byy5apdSoZ6XvX8ZkWxT3dmQBhwveg1XSzS_Uu1Xuw/viewform) | Remote |Open - Start Date Now|
 |[Brainnest Frontend Development Internship](https://www.linkedin.com/jobs/search/?currentJobId=2964861131&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
 |[Brainnest Quality Assurance Internship](https://www.linkedin.com/jobs/search/?currentJobId=2958146757&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
 |[Dropbox software intern](https://www.dropbox.com/jobs/listing/3335410?gh_src=aonhf1) | Remote |Open - Open source|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
 |[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
-|[Valeo](https://valeo.smarpshare.com/app.microblog/#/6231f94c2ba46d0001ad74fc)| Cairo | open until 24 March|
+|[Valeo](https://valeo.smarpshare.com/app.microblog/#/6231f94c2ba46d0001ad74fc)| Cairo | Open until 24 March - [Form Link](https://docs.google.com/forms/d/e/1FAIpQLScv3CzpU_sTApsZa6VaqZW2PfdmYf0vci9DbK4IAoQjIklOyQ/viewform) |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
@@ -54,7 +56,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open --- Requires experience in Flutter or PHP |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
-|[Rubikal](https://rubikal.com/) | Alexandria | Not Yet |
+|[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
