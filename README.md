@@ -1,4 +1,4 @@
-# Summer 2022 Tech Internships for Egyptian Students 👩‍💻
+ Summer 2022 Tech Internships for Egyptian Students 👩‍💻
 
 ### **Contribute by submitting a *pull request* or [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZYrhhYziWFQChdfxU_UWYacAHRsCuYpixuqhJ4pL_7RF-w/viewform?usp=sf_link)!**  🤗 ❤️
 
@@ -38,6 +38,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Linkedin backend intern</del>| Worldwide | closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
+|[Jumia Software intern](https://africainternetgroup.peoplehr.net/Pages/JobBoard/Opening.aspx?v=925b0415-c0ff-4c0c-8afc-cdb5c10d8bb4#) | Cairo |Open|
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
 |[Brainnest Frontend Development Internship](https://www.linkedin.com/jobs/search/?currentJobId=2964861131&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
 |[Brainnest Quality Assurance Internship](https://www.linkedin.com/jobs/search/?currentJobId=2958146757&geoId=106155005&keywords=internship%20software&location=Egypt) | Remote |Open|
