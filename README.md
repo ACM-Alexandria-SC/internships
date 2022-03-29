@@ -30,7 +30,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Deadlines on March 30 and September 30 |
 |<del> GirlScript Summer of Code OpenSource program </del> | Remote | Closed |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
-|<del>[Brainnest]</del>| Remote | Data Analyst Intern, Open source |
+|<del>Brainnest</del>| Remote | Data Analyst Intern, Open source |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[Edvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
 |<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
@@ -43,8 +43,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSfauQc6Byy5apdSoZ6XvX8ZkWxT3dmQBhwveg1XSzS_Uu1Xuw/viewform) | Remote |Open - Start Date Now|
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000005007100/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open|
-|<del>[Brainnest Quality Assurance Internship]</del> | Remote |closed|
-|<del>[Dropbox software intern]</del>| Remote |Closed - Open source|
+|<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
+|<del>Dropbox software intern</del>| Remote |Closed - Open source|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
 |[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
