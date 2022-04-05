@@ -59,6 +59,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
