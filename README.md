@@ -42,7 +42,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |[Jumia Software intern](https://africainternetgroup.peoplehr.net/Pages/JobBoard/Opening.aspx?v=925b0415-c0ff-4c0c-8afc-cdb5c10d8bb4#) | Cairo |Open|
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
-|[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSfauQc6Byy5apdSoZ6XvX8ZkWxT3dmQBhwveg1XSzS_Uu1Xuw/viewform) | Remote |Open - Start Date Now|
+|<del>Zep Analytics Internship</del>| Remote |Closed|
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000007508877/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open|
 |<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
 |<del>Dropbox software intern</del>| Remote |Closed - Open source|
