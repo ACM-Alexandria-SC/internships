@@ -40,7 +40,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Dell Network and Security Associate Undergraduate Intern](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Cairo-Egypt/Network-and-Security-Associate-Undergraduate-Intern_R106989?fbclid=IwAR3QsDTULwvlCI_IW4SfZ9tICeqqXj1ctCS3wm0Vtn-nrPikmt-30pMmxrk)| Cairo | needs 4th &5th University Students- deadline :10 April 2022|
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
-|[Jumia Software intern](https://africainternetgroup.peoplehr.net/Pages/JobBoard/Opening.aspx?v=925b0415-c0ff-4c0c-8afc-cdb5c10d8bb4#) | Cairo |Open|
+|<del>Jumia Software intern</del>| Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
 |<del>Zep Analytics Internship</del>| Remote |Closed|
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000007508877/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open|
