@@ -49,7 +49,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
-|[Vaseeta](https://www.linkedin.com/jobs/view/2957853937/)| Cairo | Open |
+|<del>Vezeeta</del>| Cairo | Closed |
 |<del>Valeo</del>| Cairo | Closed |
 |[IBM](https://www.ibm.com/eg-en?lnk=fcc)| Cairo | Not Yet |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
