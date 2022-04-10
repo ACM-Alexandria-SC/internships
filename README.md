@@ -65,7 +65,6 @@ Star and Watch the repo and pull new changes regularly.
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
-|[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Requires 3rd year computer science engineering students |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
