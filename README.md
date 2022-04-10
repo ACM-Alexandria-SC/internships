@@ -47,7 +47,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
 |<del>Dropbox software intern</del>| Remote |Closed - Open source|
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open --- 6 months full-time intern (july-Dec)|
-|[MaterMicro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open --- Deadline: 25-4-2022|
+|[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open --- Deadline: 25-4-2022|
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
