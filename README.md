@@ -37,7 +37,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |<del>Linkedin backend intern</del>| Worldwide | closed |
-|[Dell Network and Security Associate Undergraduate Intern](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Cairo-Egypt/Network-and-Security-Associate-Undergraduate-Intern_R106989?fbclid=IwAR3QsDTULwvlCI_IW4SfZ9tICeqqXj1ctCS3wm0Vtn-nrPikmt-30pMmxrk)| Cairo | needs 4th &5th University Students- deadline :10 April 2022|
+|<del>Dell Network and Security Associate Undergraduate Intern</del>| Cairo | CLosed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |<del>Jumia Software intern</del>| Cairo | Closed |
