@@ -59,6 +59,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open --- Requires experience in Flutter or PHP |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
+|[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open |
