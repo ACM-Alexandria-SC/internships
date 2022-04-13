@@ -36,12 +36,12 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|<del>Linkedin backend intern</del>| Worldwide | closed |
-|<del>Dell Network and Security Associate Undergraduate Intern</del>| Cairo | CLosed |
+|<del>Linkedin backend intern</del>| Worldwide | Closed |
+|<del>Dell Network and Security Associate Undergraduate Intern</del>| Cairo | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |<del>ATLC Microsoft</del> | Cairo | Closed |
 |<del>Jumia Software intern</del>| Cairo | Closed |
-|[Atomica C++ Software Engineer internship](https://apply.workable.com/atomica/j/EAE86846B9/) | Cairo |Open|
+|<del>Atomica C++ Software Engineer internship</del> | Cairo |Closed|
 |<del>Zep Analytics Internship</del>| Remote |Closed|
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000007508877/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open|
 |<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
