@@ -67,7 +67,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Brainnest](https://www.brainnest.consulting/) | Remote |Closed|
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
-|[Edvora](https://www.edvora.com/careers)| Remote |closed|
+|[Edvora](https://www.edvora.com/careers)| Remote |Closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
