@@ -43,7 +43,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Jumia Software intern</del>| Cairo | Closed |
 |<del>Atomica C++ Software Engineer internship</del> | Cairo |Closed|
 |<del>Zep Analytics Internship</del>| Remote |Closed|
-|<del>Brainnest Frontend Development Internship</del>| Remote |closed|
+|[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |open|
 |<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
 |<del>Dropbox software intern</del>| Remote |Closed - Open source|
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open --- 6 months full-time intern (july-Dec)|
