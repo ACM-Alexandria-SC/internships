@@ -32,7 +32,7 @@ Star and Watch the repo and pull new changes regularly.
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |<del>Brainnest</del>| Remote | Data Analyst Intern, Open source |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
-|[Edvora](https://wuzzuf.net/internship/eIUfWmCbvJh0-Native-iOS-Intern-Edvora-Private-Limited-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=18)| Remote | Need experience in using Swift- SwiftUI- IOS development, Open source |
+|<del>Edvora</del>| Remote |closed|
 |<del>Terminix</del>| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
@@ -43,7 +43,7 @@ Star and Watch the repo and pull new changes regularly.
 |<del>Jumia Software intern</del>| Cairo | Closed |
 |<del>Atomica C++ Software Engineer internship</del> | Cairo |Closed|
 |<del>Zep Analytics Internship</del>| Remote |Closed|
-|[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000007508877/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open|
+|<del>Brainnest Frontend Development Internship</del>| Remote |closed|
 |<del>Brainnest Quality Assurance Internship</del> | Remote |closed|
 |<del>Dropbox software intern</del>| Remote |Closed - Open source|
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open --- 6 months full-time intern (july-Dec)|
