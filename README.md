@@ -74,7 +74,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
-|[Zep Analytics Internship] (https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in/)| Remote |Closed|
+|[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote |Closed|
 
 
 **We love our contributors 💜💜**
