@@ -70,8 +70,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Edvora](https://www.edvora.com/careers)| Remote |closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
-|[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
+|[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
