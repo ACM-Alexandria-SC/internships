@@ -27,7 +27,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |open|
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
-|[Cegedim](https://careers.cegedim.com/en/annonce/1537271-software-developer-intern-cairo)| Cairo | 6-12 months internship |
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |open|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
@@ -64,6 +63,7 @@ Star and Watch the repo and pull new changes regularly.
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
 |[Brainnest](https://www.brainnest.consulting/) | Remote |closed|
+|[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote |Closed - Open source|
 |[Edvora](https://www.edvora.com/careers)| Remote |closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
