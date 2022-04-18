@@ -39,7 +39,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Paid Intern - Requires 3rd year computer science engineering students |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
-|[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open - Cash stipend for outstanding performers - Deadline: 25-4-2022|
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - Unpaid Training - Requires experience in Flutter or PHP |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
@@ -69,6 +68,7 @@ Star and Watch the repo and pull new changes regularly.
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
+|[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
