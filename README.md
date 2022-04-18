@@ -37,7 +37,7 @@ Star and Watch the repo and pull new changes regularly.
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
-|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Requires 3rd year computer science engineering students |
+|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Paid Intern - Requires 3rd year computer science engineering students |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
 |[LFX Mentorship](https://lnkd.in/gzaGkamS) | Remote | Open source |
 |[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open --- Deadline: 25-4-2022|
