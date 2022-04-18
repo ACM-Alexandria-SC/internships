@@ -4,7 +4,7 @@
 
 <hr>
 
-## How to use
+## How To Use:
 
 Fork it and add your status using :heavy_check_mark: (applied) or :x: for rejected (or just text).
 
@@ -18,7 +18,7 @@ Star and Watch the repo and pull new changes regularly.
 
 <hr>
 
-## The List 👔
+## The List 👔 :
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -55,7 +55,10 @@ Star and Watch the repo and pull new changes regularly.
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
 
-## The Archive List 🗃️ (Closed Ones)
+
+
+
+## The Archive List 🗃️ (Closed Ones):
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -75,6 +78,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote | Closed |
+
+
 
 
 **We love our contributors 💜💜**
