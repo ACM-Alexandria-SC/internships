@@ -62,9 +62,9 @@ Star and Watch the repo and pull new changes regularly.
 |---|---|-------------|--|
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
-|[Brainnest](https://www.brainnest.consulting/) | Remote |closed|
+|[Brainnest](https://www.brainnest.consulting/) | Remote |Closed|
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
-|[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote |Closed - Open source|
+|[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Edvora](https://www.edvora.com/careers)| Remote |closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
@@ -74,7 +74,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
-|[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote |Closed|
+|[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote | Closed |
 
 
 **We love our contributors 💜💜**
