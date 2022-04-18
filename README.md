@@ -57,12 +57,12 @@ Star and Watch the repo and pull new changes regularly.
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
 
-## The Archive List 👔 (Closed Ones)
+## The Archive List 🗃️ (Closed Ones)
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
-|Atomica C++ Software Engineer internship | Cairo |Closed|
+|[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
 |[Brainnest](https://www.brainnest.consulting/) | Remote |closed|
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote |Closed - Open source|
 |[Edvora](https://www.edvora.com/careers)| Remote |closed|
