@@ -33,25 +33,25 @@ Star and Watch the repo and pull new changes regularly.
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - Applications for GSoC Contributors Open April 4-19 | |
-|[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - Paid Intern - 6 months full-time intern (july-Dec)|
+|[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
-|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Paid Intern - Requires 3rd year computer science engineering students |
+|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
-|[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open - Cash stipend for outstanding performers - Deadline: 25-4-2022|
-|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - Unpaid Training - Requires experience in Flutter or PHP |
+|[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open - <b> Cash stipend for outstanding performers </b> - Deadline: 25-4-2022|
+|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
-|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - Paid Intern - Open Source Projects |
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - Unpaid Intern |
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - Paid Intern - Deadlines on March 30 and September 30 |
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
 
