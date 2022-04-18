@@ -23,7 +23,7 @@ Star and Watch the repo and pull new changes regularly.
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[5G Software Engineer Undergraduate Intern](https://jobs.dell.com/job/cairo/5g-software-engineer-undergraduate-intern/375/27138213248)| Remote | open - Deadline: 20 April 2022|
-|[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Software Development, Open source |
+|[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Open - Software Development, Open source |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |open|
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
