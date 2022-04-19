@@ -13,8 +13,7 @@ Star and Watch the repo and pull new changes regularly.
 <hr>
 
 
-## For Some Interview Tips :bulb: :
-  [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+## For Some Interview Tips :bulb: [**Tech Interview Handbook**](https://github.com/yangshun/tech-interview-handbook)
 
 <hr>
 
