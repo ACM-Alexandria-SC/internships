@@ -28,7 +28,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
-|[Dell Software intern (Research and Innovation)](https://jobs.dell.com/job/-/-/375/27562919728?src=sns-102&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CKvyhduOpfcCFcbAGwodOLwFZQ) | Remote |Open|
+|[Dell Software intern (Research and Innovation)](https://jobs.dell.com/job/-/-/375/27562919728?src=sns-102&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CKvyhduOpfcCFcbAGwodOLwFZQ) | Remote |Open- Deadling:26/4/2022|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
