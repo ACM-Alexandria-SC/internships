@@ -21,7 +21,6 @@ Star and Watch the repo and pull new changes regularly.
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[5G Software Engineer Undergraduate Intern](https://jobs.dell.com/job/cairo/5g-software-engineer-undergraduate-intern/375/27138213248)| Remote | Open - Deadline: 20 April 2022|
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Open - Software Development, Open source |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |Open|
@@ -31,7 +30,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
-|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Start preparing now as they require a proposal - Applications for GSoC Contributors Open April 4-19 | |
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
@@ -68,6 +66,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Edvora](https://www.edvora.com/careers)| Remote |Closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
+|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
