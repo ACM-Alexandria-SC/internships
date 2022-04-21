@@ -1,4 +1,5 @@
 
+
 # Summer 2022 Tech Internships for Egyptian Students 👩‍💻
 
 ## **Contribute by submitting a *pull request* or [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZYrhhYziWFQChdfxU_UWYacAHRsCuYpixuqhJ4pL_7RF-w/viewform?usp=sf_link)!**  🤗 ❤️
@@ -44,8 +45,6 @@ Star and Watch the repo and pull new changes regularly.
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
-|[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job/14097616/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing)| Dublin-Ireland | Open |
-|[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/?fbclid=IwAR3OjoGNvyvK5OXFaXaozuZ7qUIp4mVXkkzxqz-Qa0gwIgWNkvsFTiYrbXE) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
@@ -73,6 +72,8 @@ Star and Watch the repo and pull new changes regularly.
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
+|[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
+|[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
