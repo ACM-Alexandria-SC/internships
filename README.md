@@ -30,6 +30,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Dell Software intern (Research and Innovation)](https://jobs.dell.com/job/-/-/375/27562919728?src=sns-102&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CKvyhduOpfcCFcbAGwodOLwFZQ) | Remote |Open- Deadling:26/4/2022|
+|[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Open - Full Stack Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
@@ -66,7 +67,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Brainnest](https://www.brainnest.consulting/) | Remote |Closed|
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
-|[Edvora](https://www.edvora.com/careers)| Remote |Closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
