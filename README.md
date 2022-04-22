@@ -25,9 +25,9 @@ Star and Watch the repo and pull new changes regularly.
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Open - Software Development, Open source |
+|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open-<b>Paid intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |Open|
-|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open-<b>Paid intern</b>|
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
