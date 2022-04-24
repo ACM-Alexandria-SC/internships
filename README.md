@@ -25,7 +25,7 @@ Star and Watch the repo and pull new changes regularly.
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Acoustic](https://careers-acoustic.icims.com/jobs/2615/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=800&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Flexible Hybrid Model: remote and/or on-site work schedule to suit your needs | Open - Software Development, Open source |
-|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open-<b>Paid intern</b>|
+|[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest Frontend Development Internship](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000009438439/Intern-Junior-Frontend-Developer-Remote-Frontend-Development-Internship?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings)| Remote |Open|
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
