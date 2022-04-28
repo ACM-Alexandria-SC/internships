@@ -51,6 +51,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
+|[Sprints](https://form.jotform.com/221023156870549?fbclid=IwAR3rMeToZiJlDd_xNL1TG2JE3wbZJzwl9FkKb-cOWAMwSc4kdMx9xIYe0rs) | Alexandria & Remote | Open - A 3-month paid internship with the chance of joining our team at the end |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
