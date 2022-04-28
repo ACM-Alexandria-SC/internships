@@ -43,7 +43,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
 |[Instabug](https://instabug.com/)| Cairo | Not Yet |
 |[Leetcode](https://leetcode.com/jobs/)| Worldwide |Open - <b>Paid Intern</b> - Full Stack intern|
-|[Master Micro software intern](https://www.master-micro.com/join-us/join-mm-sw-intern) | Remote | Open - <b> Cash stipend for outstanding performers </b> - Deadline: 25-4-2022|
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[Mentor Graphics](https://eda.sw.siemens.com/en-US/)| Cairo | Not Yet |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
@@ -76,6 +75,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
+|[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
