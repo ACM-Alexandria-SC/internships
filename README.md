@@ -37,7 +37,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
-|[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/) | Cairo | Open |
+|[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/) | Cairo | Open- 4th year computer engineering students |
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
@@ -52,6 +52,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
+|[P&G Intern](https://www.pgcareers.com/job/cairo/it-internship/936/27972021648) | Cairo | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Sprints](https://form.jotform.com/221023156870549?fbclid=IwAR3rMeToZiJlDd_xNL1TG2JE3wbZJzwl9FkKb-cOWAMwSc4kdMx9xIYe0rs) | Alexandria & Remote | Open - A 3-month paid internship with the chance of joining our team at the end |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
