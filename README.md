@@ -56,7 +56,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Sprints](https://form.jotform.com/221023156870549?fbclid=IwAR3rMeToZiJlDd_xNL1TG2JE3wbZJzwl9FkKb-cOWAMwSc4kdMx9xIYe0rs) | Alexandria & Remote | Open - A 3-month paid internship with the chance of joining our team at the end |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open |
+|[Trella](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6) | Cairo | Open - <b> Unpaid Intern </b> |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
