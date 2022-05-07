@@ -89,7 +89,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
-|[Terminix](https://corporate.terminix.com/careers/index.html)| The program has traditionally been on-site, but hybrid and remote arrangements can be discussed | Closed |
+|[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, but Hybrid arrangements can be discussed | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote | Closed |
