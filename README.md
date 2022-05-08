@@ -54,6 +54,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-internship/936/27972021648) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
+|[Shahry SWE Backedend Intern](https://shahry.app/careers\?jobId\=CKJmmcZN9dAP) | Cairo  |  open **paid** |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Sprints](https://form.jotform.com/221023156870549?fbclid=IwAR3rMeToZiJlDd_xNL1TG2JE3wbZJzwl9FkKb-cOWAMwSc4kdMx9xIYe0rs) | Alexandria & Remote | Open - A 3-month paid internship with the chance of joining our team at the end |
@@ -65,7 +66,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
-
 
 
 
