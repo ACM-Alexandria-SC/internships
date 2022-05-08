@@ -44,7 +44,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
-|[Instabug](https://www.facebook.com/520315251340897/posts/5221250481247327/)| Cairo | Open - Deadline: 8/5/2022|
+|[Instabug](https://www.facebook.com/520315251340897/posts/5221250481247327/)| Cairo | Open - Deadline: 18/5/2022|
 |[Itidia](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022|
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
