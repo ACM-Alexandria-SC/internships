@@ -64,7 +64,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
 |[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Open |
 
 
@@ -94,6 +93,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
+|[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[Zep Analytics Internship](https://www.linkedin.com/company/zep-analytics/?originalSubdomain=in)| Remote | Closed |
 
 
