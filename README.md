@@ -38,6 +38,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/) | Cairo | Open- 4th year computer engineering students |
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|
+|[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
