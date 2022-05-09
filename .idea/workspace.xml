@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb806392-8a7b-41be-a9bd-29645c160713" name="Changes" comment="Updated Itida Intern #6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27AQ5802N7DDhaXUNxQnGLT3En9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/home/mai/IdeaProjects/Internships&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Internships" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Internships" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb806392-8a7b-41be-a9bd-29645c160713" name="Changes" comment="" />
+      <created>1648760224579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648760224579</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Technocolabs Softwares Intern!!">
+      <created>1648762430688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648762430688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Jumia Intern Closed :((">
+      <created>1649186836923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649186836923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The Sparks Foundation GRIP added :))">
+      <created>1649195833364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649195833364</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Webalo :))">
+      <created>1649595497557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649595497557</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Webalo :))">
+      <created>1649595582030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649595582030</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":)">
+      <created>1650307422893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650307422893</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":)">
+      <created>1650307484111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650307484111</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":)">
+      <created>1650307564934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650307564934</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":)">
+      <created>1650307794385</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650307794385</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":)">
+      <created>1650307993329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650307993329</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":)">
+      <created>1650308269620</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308269620</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":)">
+      <created>1650308441796</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308441796</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":)">
+      <created>1650308505000</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308505000</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":)">
+      <created>1650308625066</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308625066</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":)">
+      <created>1650308835178</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308835178</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":)">
+      <created>1650309421800</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1650309421800</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":)">
+      <created>1650309489357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1650309489357</updated>
+    </task>
+    <task id="LOCAL-00018" summary=":)">
+      <created>1650309812107</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1650309812107</updated>
+    </task>
+    <task id="LOCAL-00019" summary=":)">
+      <created>1650309879954</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650309879954</updated>
+    </task>
+    <task id="LOCAL-00020" summary=":)">
+      <created>1650309961852</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1650309961852</updated>
+    </task>
+    <task id="LOCAL-00021" summary=":)">
+      <created>1650310123718</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1650310123718</updated>
+    </task>
+    <task id="LOCAL-00022" summary=":)">
+      <created>1650310461303</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1650310461303</updated>
+    </task>
+    <task id="LOCAL-00023" summary=":)">
+      <created>1650310656378</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1650310656378</updated>
+    </task>
+    <task id="LOCAL-00024" summary=":)">
+      <created>1650310751212</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1650310751212</updated>
+    </task>
+    <task id="LOCAL-00025" summary="GSoC Closed :(">
+      <created>1650534564526</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650534564526</updated>
+    </task>
+    <task id="LOCAL-00026" summary=":))">
+      <created>1650765373773</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1650765373773</updated>
+    </task>
+    <task id="LOCAL-00027" summary=":))">
+      <created>1650765502535</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1650765502535</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Master MicroIntern Closed :((">
+      <created>1651115892071</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1651115892071</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Nichepharma - UI/UX Designer Intern Added :))">
+      <created>1651491669070</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1651491669070</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Nichepharma - UI/UX Designer Intern Added :))">
+      <created>1651491707282</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1651491707282</updated>
+    </task>
+    <task id="LOCAL-00031" summary=":))">
+      <created>1651492710437</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1651492710437</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Tatbeek Intern Added :))">
+      <created>1651932186132</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651932186132</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Acoustic Intern Closed :((">
+      <created>1651933043270</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651933043270</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Leetcode Intern Closed :((">
+      <created>1651933688736</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651933688736</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Updated :))">
+      <created>1651933972559</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651933972559</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Updated :))">
+      <created>1651934341331</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1651934341331</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Updated :))">
+      <created>1651934382068</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1651934382068</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added Cloudastick Intern #6">
+      <created>1652125025069</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1652125025069</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Updated Itida Intern #6">
+      <created>1652125073417</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1652125073417</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Technocolabs Softwares Intern!!" />
+    <MESSAGE value="Jumia Intern Closed :((" />
+    <MESSAGE value="The Sparks Foundation GRIP added :))" />
+    <MESSAGE value="Webalo :))" />
+    <MESSAGE value=":)" />
+    <MESSAGE value="GSoC Closed :(" />
+    <MESSAGE value="Master MicroIntern Closed :((" />
+    <MESSAGE value="Nichepharma - UI/UX Designer Intern Added :))" />
+    <MESSAGE value=":))" />
+    <MESSAGE value="Tatbeek Intern Added :))" />
+    <MESSAGE value="Acoustic Intern Closed :((" />
+    <MESSAGE value="Leetcode Intern Closed :((" />
+    <MESSAGE value="Updated :))" />
+    <MESSAGE value="Added Cloudastick Intern #6" />
+    <MESSAGE value="Updated Itida Intern #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Itida Intern #6" />
+  </component>
+</project>
