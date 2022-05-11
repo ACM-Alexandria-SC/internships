@@ -36,7 +36,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Easy System](https://wuzzuf.net/internship/eIXcFZFAP2u8-AIBI-Intern-Easy-System-Cairo-Egypt)| Cairo | AI/BI intern- <b>Paid Intern</b>|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
-|[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
+|[Espace](https://espace.com.eg/jobs/junior-software-developer/) | Alexandria | Junior Software developer |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/) | Cairo | Open- 4th year computer engineering students |
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|
