@@ -79,7 +79,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Dell](https://jobs.dell.com/internships) | Remote |Closed|
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
-|[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed - Full Stack Intern |
+|[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
