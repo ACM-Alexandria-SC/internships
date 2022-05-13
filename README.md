@@ -61,7 +61,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
-|[Trella](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6) | Cairo | Open - <b> Paid Intern </b> |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
@@ -93,6 +92,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
+|[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
