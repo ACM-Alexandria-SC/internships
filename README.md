@@ -59,6 +59,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Open - Software Engineering Intern (Backend)|
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
+|[Tatbeek](https://www.tatbeek.com/ar/jobs/detail/software-engineer-internship-26) | Smart Village or Remotely | Open |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
@@ -90,7 +91,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
-|[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
