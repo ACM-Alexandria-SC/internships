@@ -35,6 +35,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- deadline: 1/6/2022|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
+|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
