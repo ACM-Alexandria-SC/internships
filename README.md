@@ -37,7 +37,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
-|[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
+|[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
