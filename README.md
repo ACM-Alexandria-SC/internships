@@ -39,6 +39,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Open - <b> Paid Intern</b>- Deadline 31th May  |
+|[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
@@ -81,7 +82,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
-|[Giza Systems](https://www.gizasystemscareers.com/en/job-search-results/) | Cairo |Closed|
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
 |[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |
