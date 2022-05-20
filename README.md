@@ -39,6 +39,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Open - <b> Paid Intern</b>- Deadline 31th May  |
+|[Eyouth](https://docs.google.com/forms/d/e/1FAIpQLScHVQwY7x3EuBwctpkTcibtBMtDebgmv93bl6P6QZCcWQtYWw/viewform) | Giza | Open - <b> Paid Intern</b>|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
