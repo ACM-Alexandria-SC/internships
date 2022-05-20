@@ -70,7 +70,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Open - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |
-  
+|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |✔️
+|[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> - Multiple interns - Deadline: Unknown |✔️
 
   
   
