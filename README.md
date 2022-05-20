@@ -32,10 +32,10 @@ Star and Watch the repo and pull new changes regularly.
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
-|[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- deadline: 1/6/2022|✔️
+|[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- deadline: 1/6/2022|
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
-|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
+|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Open - <b> Paid Intern</b>- Deadline 31th May  |
@@ -47,14 +47,14 @@ Star and Watch the repo and pull new changes regularly.
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 |
-|[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |📝
+|[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern 
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
-|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |:x:
+|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |
 |[Raisa Energy Tech](https://www.linkedin.com/posts/raisa-energy_tech-activity-6932735219158417408-aCll?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo-hybrid | Open - <b> Paid </b>|
