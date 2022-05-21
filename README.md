@@ -30,7 +30,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|
-|[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Open - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
 |[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- deadline: 1/6/2022|
@@ -50,7 +49,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern 
-|[LXT](https://lxt.bamboohr.com/jobs/view.php?id=201&fbclid=IwAR1_vt-29N9VVMs-_Q5uepT2dfP3NS-IWQWabKSGuqUWN3uVTB0jWGu0Vos)| cairo |  Open <b> - Paid intern - Deadline: Unknown |
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
