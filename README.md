@@ -1,27 +1,22 @@
-
-
-
-
 # Summer 2022 Tech Internships for Egyptian Students 👩‍💻
 
-## **Contribute by submitting a *pull request* or [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZYrhhYziWFQChdfxU_UWYacAHRsCuYpixuqhJ4pL_7RF-w/viewform?usp=sf_link)!**  🤗 ❤️
+## Contents
+- [Contribution](#contribution)
+- [Tips for the interview](#tips-for-the-interview)
+- [Opened Internships](#internships)
+- [Closed Internships](#closed-internships)
+- [Contributors](#contributors)
+## Contribution
+If you know any good internship related to the tech field (choose one) :
+- Make a PR 
+- Fill this google [form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZYrhhYziWFQChdfxU_UWYacAHRsCuYpixuqhJ4pL_7RF-w/viewform?usp=sf_link) 🤗 ❤️
 
-<hr>
+## Tips for the interview
+Some of the internships may require a technical interview
 
-## How To Use:
+- Check this awesome [repo](https://github.com/yangshun/tech-interview-handbook) 📖
 
-Fork it and add your status using :heavy_check_mark: (applied) or :x: for rejected (or just text).
-
-Star and Watch the repo and pull new changes regularly.
-
-<hr>
-
-
-## For Some Interview Tips :bulb: [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
-
-<hr>
-
-## The List 👔 :
+## Internships
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -73,12 +68,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
-
-
-
   
-  
-## The Archive List 🗃️ (Closed Ones):
+## Closed Internships
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -111,10 +102,8 @@ Star and Watch the repo and pull new changes regularly.
 |[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
 
 
-
-
-
-**We love our contributors 💜💜**
+## Contributors
+We love our contributors 💜💜
 
 * [Moaz El Defrawy](https://github.com/moaz-eldefrawy)
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
