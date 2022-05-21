@@ -3,8 +3,8 @@
 ## Contents
 - [Contribution](#contribution)
 - [Tips for the interview](#tips-for-the-interview)
-- [Internships](#internships👔)
-- [Closed Internships](#closed-internships🗃️)
+- [Opened Internships :necktie:](#internships-necktie)
+- [Closed Internships :card_box:](#closed-internships-card_box)
 - [Contributors](#contributors)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
@@ -16,7 +16,7 @@ Some of the internships may require a technical interview
 
 - Check this awesome [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
 
-## Internships👔
+## Internships :necktie:
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -69,7 +69,7 @@ Some of the internships may require a technical interview
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
   
-## Closed Internships🗃️
+## Closed Internships :card_box:
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
