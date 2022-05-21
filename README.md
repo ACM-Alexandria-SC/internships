@@ -3,8 +3,8 @@
 ## Contents
 - [Contribution](#contribution)
 - [Tips for the interview](#tips-for-the-interview)
-- [Opened Internships](#internships)
-- [Closed Internships](#closed-internships)
+- [Opened Internships](#internships-👔)
+- [Closed Internships](#closed-internships-🗃️)
 - [Contributors](#contributors)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
