@@ -4,7 +4,7 @@
 - [Contribution](#contribution)
 - [Tips for the interview](#tips-for-the-interview)
 - [Opened Internships :necktie:](#internships-necktie)
-- [Closed Internships :card_box:](#closed-internships-card_box)
+- [Closed Internships :card_file_box:](#closed-internships-card_file_box)
 - [Contributors](#contributors)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
@@ -69,7 +69,7 @@ Some of the internships may require a technical interview
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
   
-## Closed Internships :card_box:
+## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
