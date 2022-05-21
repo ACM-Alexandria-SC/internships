@@ -8,15 +8,15 @@
 - [Contributors](#contributors)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
-- Make a PR 
+- Make a Pull Request
 - Fill this google [form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZYrhhYziWFQChdfxU_UWYacAHRsCuYpixuqhJ4pL_7RF-w/viewform?usp=sf_link) 🤗 ❤️
 
 ## Tips for the interview
 Some of the internships may require a technical interview
 
-- Check this awesome [repo](https://github.com/yangshun/tech-interview-handbook) 📖
+- Check this awesome [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
 
-## Internships
+## Internships 👔
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -69,7 +69,7 @@ Some of the internships may require a technical interview
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
   
-## Closed Internships
+## Closed Internships 🗃️
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
