@@ -69,6 +69,7 @@ Some of the internships may require a technical interview
 |[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Open- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[National Bank Of Egypt (Alahly)](http://tiny.cc/NBE_Internship)| Not Yet | Open- <b>Unpaid Intern, For 2nd & 3rd Year Students</b> - Multi Role |
+|[Bank Du Caire](https://www.linkedin.com/jobs/view/3096335425/?refId=3272871a-a52d-363e-b5cc-9acd3d638524)| On-Site | Open- Unpaid Intern, For 2nd & 3rd Year Students, <b>Deadline to apply: Thursday, 2nd of June 2022.</b> - Multi Role |
   
 
 ## Closed Internships :card_file_box:
