@@ -23,6 +23,7 @@ Some of the internships may require a technical interview
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
+|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000014242013/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data Analysis|
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
@@ -33,8 +34,9 @@ Some of the internships may require a technical interview
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
+|[EVA Pharma](  https://www.facebook.com/103532834475553/posts/572869657541866)| Cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
 |[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Open - <b> Paid Intern</b>- Deadline 31th May  |
-|[EgSA ](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
+|[EgSA](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
@@ -56,8 +58,8 @@ Some of the internships may require a technical interview
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
+|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |
-   |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern - Deadline: 24th of May (11:59 PM SGT)</b> |
 |[Trella ](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6/apply)| cairo |  Open <b>  - Deadline: Deadline: 31/5/2022 |  
@@ -67,6 +69,7 @@ Some of the internships may require a technical interview
 |[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Open- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
   
+
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
@@ -74,7 +77,6 @@ Some of the internships may require a technical interview
 |[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
-|[Brainnest](https://www.linkedin.com/company/brainnestde/jobs/) | Remote |Closed|
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Dell](https://jobs.dell.com/internships) | Remote |Closed|
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
