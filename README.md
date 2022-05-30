@@ -60,7 +60,6 @@ Some of the internships may require a technical interview
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
-|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 28/5/2022 @11:59 PM (cairo) |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern - Deadline: 24th of May (11:59 PM SGT)</b> |
 |[Trella ](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6/apply)| cairo |  Open <b>  - Deadline: Deadline: 31/5/2022 |  
@@ -100,6 +99,7 @@ Some of the internships may require a technical interview
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
+|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |Closed|
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
