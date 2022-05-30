@@ -21,6 +21,7 @@ Some of the internships may require a technical interview
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
+ |[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Sharqia | Open - <b>Paid Interns</b> -<b> Multi Interns </b> - Deadline: 5/6/2022 |
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000014242013/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data Analysis|
@@ -43,7 +44,7 @@ Some of the internships may require a technical interview
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
-|[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |
+|[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern 
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
