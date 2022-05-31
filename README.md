@@ -16,7 +16,7 @@ Some of the internships may require a technical interview
 
 - Check this awesome [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
 
-## Internships :necktie:
+## Tech Internships :necktie:
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
@@ -68,9 +68,17 @@ Some of the internships may require a technical interview
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Open- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
+ 
+ 
+## General skills Internships:
 
-  
+| Name  |  Location |  Notes | status |
+|---|---|-------------|--|
+|[National Bank of Egypt](https://www.facebook.com/NBE1898/posts/2690119291121428) |All branches in Egypt| Open |
+|[CIB]( https://cibeg.taleo.net/careersection/cib_ex/jobdetail.ftl?job=220000V9&tz=GMT%2B02%3A00&tzname=Africa%2FCairo) |Cairo - Egypt| Open |
 
+ 
+ 
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
