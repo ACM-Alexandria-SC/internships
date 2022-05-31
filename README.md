@@ -36,11 +36,9 @@ Some of the internships may require a technical interview
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[EVA Pharma](  https://www.facebook.com/103532834475553/posts/572869657541866)| Cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
-|[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Open - <b> Paid Intern</b>- Deadline 31th May  |
 |[EgSA](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
-|[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
@@ -61,12 +59,8 @@ Some of the internships may require a technical interview
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern - Deadline: 24th of May (11:59 PM SGT)</b> |
-|[Trella ](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6/apply)| cairo |  Open <b>  - Deadline: Deadline: 31/5/2022 |  
-|[Trianglz](https://docs.google.com/forms/d/e/1FAIpQLSdDhKwl9dYy2SgRaUUbJV7Dmw47jH2HeT22TduZpxIUB_U7kg/viewform) | Alexandria |Open - Deadline:31/5/2022|
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Open- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
   
@@ -81,6 +75,7 @@ Some of the internships may require a technical interview
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Dell](https://jobs.dell.com/internships) | Remote |Closed|
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
+|[Eventum](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-2022-473) | Alexandria | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
@@ -92,6 +87,7 @@ Some of the internships may require a technical interview
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
+|[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |
@@ -100,14 +96,16 @@ Some of the internships may require a technical interview
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |Closed|
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Closed |
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
+|[Trianglz](https://docs.google.com/forms/d/e/1FAIpQLSdDhKwl9dYy2SgRaUUbJV7Dmw47jH2HeT22TduZpxIUB_U7kg/viewform) | Alexandria | Closed |
+|[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
-
 
 ## Contributors
 We love our contributors 💜💜
