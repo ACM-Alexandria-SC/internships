@@ -60,7 +60,6 @@ Some of the internships may require a technical interview
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |  
-|[Trianglz](https://docs.google.com/forms/d/e/1FAIpQLSdDhKwl9dYy2SgRaUUbJV7Dmw47jH2HeT22TduZpxIUB_U7kg/viewform) | Alexandria |Open - Deadline:31/5/2022|
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
@@ -101,6 +100,7 @@ Some of the internships may require a technical interview
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
+|[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
