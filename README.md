@@ -61,6 +61,9 @@ Some of the internships may require a technical interview
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
+|[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |
+|[siemens ](https://jobs.siemens.com/jobs/318046?lang=en-us&previousLocale=en-US&fbclid=IwAR2JdPsDQPc3Im_hmc8Iyjh1oYUymZtYQFVYSm5wyboxVri5OVEeWd-U2eo) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |
+|[sumerge ](https://www.sumerge.com/job-description/?jobID=87) | Cairo | Open - Deadline UnKnown |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern - Deadline: 24th of May (11:59 PM SGT)</b> |
 |[Trella ](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6/apply)| cairo |  Open <b>  - Deadline: Deadline: 31/5/2022 |  
