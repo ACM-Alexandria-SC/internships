@@ -65,7 +65,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
-|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |   
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |  
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
@@ -102,6 +101,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
+|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|   
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |Closed|
