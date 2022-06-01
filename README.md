@@ -103,7 +103,7 @@ Some of the internships may require a technical interview
 |[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
-|[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB)| Giza | Closed | 
+|[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
 
