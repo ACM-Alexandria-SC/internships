@@ -3,6 +3,7 @@
 ## Contents
 - [Contribution](#contribution)
 - [Tips for the interview](#tips-for-the-interview)
+- [Stack Info](# Stack-Info)
 - [Opened Internships :necktie:](#internships-necktie)
 - [Closed Internships :card_file_box:](#closed-internships-card_file_box)
 - [Contributors](#contributors)
@@ -15,6 +16,13 @@ If you know any good internship related to the tech field (choose one) :
 Some of the internships may require a technical interview
 
 - Check this awesome [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
+
+
+## Stack Info
+Stack Info allows you to explore and find tech stacks used by startups and corporates in Egypt.
+
+- Check this awesome [***Stack Info***](http://www.stackinfo.me/) 
+
 
 ## Internships :necktie:
 
