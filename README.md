@@ -3,7 +3,7 @@
 ## Contents
 - [Contribution](#contribution)
 - [Tips for the interview](#tips-for-the-interview)
-- [Stack Info](# Stack-Info)
+- [Stack Info](#Stack-Info)
 - [Opened Internships :necktie:](#internships-necktie)
 - [Closed Internships :card_file_box:](#closed-internships-card_file_box)
 - [Contributors](#contributors)
