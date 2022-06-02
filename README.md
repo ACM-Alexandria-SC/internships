@@ -37,6 +37,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
+|[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> - Multiple interns - Deadline: Unknown |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
@@ -65,7 +66,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |  
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
