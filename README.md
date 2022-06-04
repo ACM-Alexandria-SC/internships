@@ -47,7 +47,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[EgSA](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
-|[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
@@ -95,6 +94,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
 |[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
 |[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |
+|[IBM Technical support intern](https://www.ibm.com/employment/) | Cairo |Closed |
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
