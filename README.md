@@ -62,6 +62,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
+|[SIEMENS](https://docs.google.com/forms/d/e/1FAIpQLSfScyleCqVk3hl9QETHT6ulukRNJoK8QfpW-R2wptdDbqI7aQ/viewform?pli=1&pli=1)|Not Mentioned| Open - Deadline on June 30|
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| cairo | Open |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |
