@@ -28,7 +28,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Appgain]([https://blink22.com/](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1)) | Giza | Open - <b>Paid</b> |
+|[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
