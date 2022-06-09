@@ -6,7 +6,7 @@
 - [Stack Info](#Stack-Info)
 - [Opened Internships :necktie:](#internships-necktie)
 - [Closed Internships :card_file_box:](#closed-internships-card_file_box)
-- [Contributors](#contributors)
+- [Collaborators](#Collaborators)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
 - Make a Pull Request
@@ -119,7 +119,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
 
 
-## Contributors
+## Collaborators
 We love our collaborators 💜💜
 
 * [Moaz El Defrawy](https://github.com/moaz-eldefrawy)
