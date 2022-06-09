@@ -42,7 +42,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
-|[EVA Pharma](  https://www.facebook.com/103532834475553/posts/572869657541866)| Cairo |  Open <b> |
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
@@ -87,6 +86,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| cairo | Closed |
+|[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
