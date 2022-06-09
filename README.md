@@ -65,6 +65,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Open |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |
+|[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |  
+Sheikh Zayed, Giza | Open - <b> Paid </b> - Deadline: 20/6/2022 |  
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open- Data Analysis Intern|
