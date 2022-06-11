@@ -28,6 +28,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Alx-Africa](https://www.alxafrica.com/) | Online | Open - <b>Not Paid</b> |
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
@@ -129,4 +130,5 @@ We love our collaborators 💜💜
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
 * [Youssef Bazina](https://github.com/Bazina)
 * [Bassant Yasser](https://github.com/Bassantyasser043)
+* [Raheem Amer](https://github.com/RaheemAmer)
 
