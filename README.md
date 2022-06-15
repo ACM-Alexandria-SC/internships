@@ -61,13 +61,13 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |
-|[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| cairo | Open |
-|[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) | Smart Village - Egypt  |Open|
+|[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
+|[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) |Downtown Cairo|**MERN** Internship **Paid** - DeadLine: 30/06/2022 |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
-|[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| cairo | Open |
+|[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Open |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |
 |[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |
