@@ -40,7 +40,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|
 |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
-|[cross workers](https://careers.crossworkers-egypt.com/)| Cairo |  Open <b> - Multiple interns - Deadline: Unknown |
+|[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo |  Open <b> - Multiple interns - Deadline: Unknown |
+|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
+|[Dell](https://jobs.dell.com/job/-/-/375/30867818224?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjw46CVBhDXmNPjpPqq384BEiQAUvJFc6OoiUnOu22g-f2O3nX5pFqXydN7wY2mh6XXOIsooKTw_wcB)| Remote |  Open -<b>Fresh graduates</b> |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
@@ -62,14 +64,17 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |
+|[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
+|[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) |Downtown Cairo|**MERN** Internship **Paid** - DeadLine: 30/06/2022 |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
 |[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
-|[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| cairo | Open |
+|[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Open |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |
-|[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |  
+|[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |
+|[TPAY Mobile](https://tpaymobile.com/careers/) | Cairo | Open - Deadline: 25/06/2022 |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open- Data Analysis Intern|
@@ -88,7 +93,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Coformatique](https://www.coformatique.com/) | Cairo | Closed | 
-|[Dell](https://jobs.dell.com/internships) | Remote |Closed|
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
