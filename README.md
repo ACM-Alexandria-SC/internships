@@ -29,6 +29,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
+|[Beetleware Software Testing](https://m.facebook.com/story.phpstory_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000014242013/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data Analysis|
