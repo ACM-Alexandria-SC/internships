@@ -103,7 +103,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
-|[Gameball](https://www.gameball.co/) | Remote | Closed |  
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
