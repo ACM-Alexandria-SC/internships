@@ -57,6 +57,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
+|[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
