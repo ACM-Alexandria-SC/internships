@@ -29,11 +29,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
-|[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000014242013/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data Analysis|
-|[Brightskies](https://brightskiesinc.com/jobs/hpc-software-engineer-intern/?fbclid=IwAR3ZYIXhuDMB0WE5YNyGVLGHvn0ugV_WelusZ0NP8Yrr_WS9Z3zwA3SaBiI) | Alexandria | Open |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/) | Cairo |Open|
@@ -42,7 +40,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo |  Open <b> - Multiple interns - Deadline: Unknown |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Dell](https://jobs.dell.com/job/-/-/375/30867818224?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjw46CVBhDXmNPjpPqq384BEiQAUvJFc6OoiUnOu22g-f2O3nX5pFqXydN7wY2mh6XXOIsooKTw_wcB)| Remote |  Open -<b>Fresh graduates</b> |
-|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
@@ -87,9 +84,11 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |---|---|-------------|--|
 |[Algoriza](https://www.linkedin.com/company/algoriza/?originalSubdomain=eg) | Cairo |Closed|
 |[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
-|[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed | 
+|[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed |
+|[ARPU PLUS](https://www.arpuplus.com/careers) |Giza - Egypt|Closed|
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
+|[Brightskies](https://brightskiesinc.com/careers/4/) | Alexandria | CLosed |
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Coformatique](https://www.coformatique.com/) | Cairo | Closed | 
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
