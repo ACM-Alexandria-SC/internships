@@ -53,6 +53,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern 
 |[Link Development](https://linkdevelopment.com/careers/opportunities/summer-internship-egypt)| Cairo |Open - Multiple interns - Deadline: Unknown |  
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
+|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|  
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |
