@@ -43,7 +43,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dell](https://jobs.dell.com/job/-/-/375/30867818224?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjw46CVBhDXmNPjpPqq384BEiQAUvJFc6OoiUnOu22g-f2O3nX5pFqXydN7wY2mh6XXOIsooKTw_wcB)| Remote |  Open -<b>Fresh graduates</b> |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b>|
-|[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Remote | Open - <b>Paid Intern</b> - Deadline: 20/6/2022|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern - 2000 To 3000 EGP Per Month </b> |  
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
@@ -100,6 +99,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
+|[Gameball](https://www.gameball.co/) | Remote | Closed |  
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
