@@ -52,6 +52,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
+|[Izam](https://wuzzuf.net/internship/oFfMQ6zPoefw-Front-End-Web-Developer-Izam-inc-Giza-Egypt) | Mohandessin, Giza | Open - <b> Paid Intern </b> - Front-End Intern - Deadline: 23 July|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Link Development](https://linkdevelopment.com/careers/opportunities/summer-internship-egypt)| Cairo | Open |  
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
