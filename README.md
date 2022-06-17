@@ -27,7 +27,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 ## Internships :necktie:
 
 | Name  |  Location |  Notes | status |
-|---|---|-------------|--|
+|---|---|-------------|--| 
+|[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
