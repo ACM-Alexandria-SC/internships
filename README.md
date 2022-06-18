@@ -72,6 +72,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
+|[Stepinside V-commerce](https://wuzzuf.net/internship/QiJqt9Vh2RO5-Web-Designer---Internship-Stepinside-V-commerce-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5&fbclid=IwAR0Q0XLbUqg1pDjni7BC4aAOn-1Jiw7NvPnugVSBEdof-24mQrHW2dOvRxA)| Smouha, Alexandria | Open - <b>Paid Intern</b> -Web Designer Intern|
 |[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) |Downtown Cairo|**MERN** Internship **Paid** - DeadLine: 30/06/2022 |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
