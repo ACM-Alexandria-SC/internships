@@ -43,7 +43,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Open |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
-|[Dell](https://jobs.dell.com/job/-/-/375/30867818224?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjw46CVBhDXmNPjpPqq384BEiQAUvJFc6OoiUnOu22g-f2O3nX5pFqXydN7wY2mh6XXOIsooKTw_wcB)| Remote |  Open -<b>Fresh graduates</b> |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b> - Deadline: End of June|
@@ -103,7 +102,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
 |[Brightskies](https://brightskiesinc.com/careers/4/) | Alexandria | Closed |
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
-|[Coformatique](https://www.coformatique.com/) | Cairo | Closed | 
+|[Coformatique](https://www.coformatique.com/) | Cairo | Closed |
+|[Dell](https://jobs.dell.com/)| Remote |  Closed |
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
