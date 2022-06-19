@@ -68,7 +68,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
-|[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship | Raya 
+|[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
 |[Raya](https://careers.rayacorp.com/en/egypt/jobs/explore-summer-internship-program-2022-4493904/)| Cairo  | Open - Data analysis - Deadline: 25/06/2022 |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
