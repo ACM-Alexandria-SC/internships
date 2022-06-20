@@ -49,6 +49,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern: 2000 To 3000 EGP Per Month </b> |  
+|[Identity Solutions](https://www.facebook.com/identity.solutions.org/posts/pfbid0YDT9SeLbK7vVfvE6VH5DcwekSmRiYtkmdRNFuJFg8TeGB7oJ3GgkHnPe7E3frzonl) | | Mobile apps & web development focus - deadline: 30th of June |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
