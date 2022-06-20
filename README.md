@@ -42,6 +42,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Open |
+|[Dell Summer Academy](https://summeracademyeg.com) | Not Mentioned | Open |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
