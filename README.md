@@ -54,7 +54,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
-|[Izam](https://wuzzuf.net/internship/oFfMQ6zPoefw-Front-End-Web-Developer-Izam-inc-Giza-Egypt) | Mohandessin, Giza | Open - <b> Paid Intern </b> - Front-End Intern - Deadline: 23 July|
 |[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
@@ -77,17 +76,15 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) |Downtown Cairo|**MERN** Internship **Paid** - DeadLine: 30/06/2022 |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
-|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern</b> |
+|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
 |[SIEMENS Healthineers](https://www.facebook.com/Tarek.Elashraf.Siemens/videos/1196491004450436/)|Hyprid| Open - DeadLine: 30/06/2022 |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |
 |[TPAY Mobile](https://tpaymobile.com/careers/) | Cairo | Open - Deadline: 25/06/2022 |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open - Data Analysis Intern|
-|[VERO](https://www.linkedin.com/posts/ayaelsayed_copied-activity-6941494648540381184-lazH/) | Not Mentioned | Open - Game Developer - Frontend Intern Deadline on June 19|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
   
@@ -119,7 +116,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
 |[IBM Technical support intern](https://www.ibm.com/employment/) | Cairo |Closed |
 |[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |  
-|[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |  
+|[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |
+|[Izam](http://www.izam.co) | Mohandessin - Giza |Closed|
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Link Development](https://linkdevelopment.com/careers/opportunities/)| Cairo | Closed |  
@@ -137,9 +135,11 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| Cairo |Closed|
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
+|[Town4One](https://www.linkedin.com/company/town4one/?originalSubdomain=eg) |Sheikh Zayed |Closed|
 |[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
+|[VERO](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
