@@ -57,7 +57,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Izam](https://wuzzuf.net/internship/oFfMQ6zPoefw-Front-End-Web-Developer-Izam-inc-Giza-Egypt) | Mohandessin, Giza | Open - <b> Paid Intern </b> - Front-End Intern - Deadline: 23 July|
 |[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
-|[Link Development](https://linkdevelopment.com/careers/opportunities/summer-internship-egypt)| Cairo | Open |  
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|  
 |[Machinfy](https://www.facebook.com/Machinfy/photos/a.129683178598972/557815005785785/)| Cairo | Open - Data Science internship - Deadline: 25 June|  
@@ -123,6 +122,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |  
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
+|[Link Development](https://linkdevelopment.com/careers/opportunities/)| Cairo | Closed |  
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
