@@ -49,6 +49,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern: 2000 To 3000 EGP Per Month </b> |  
+|[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Identity Solutions](https://www.facebook.com/identity.solutions.org/posts/pfbid0YDT9SeLbK7vVfvE6VH5DcwekSmRiYtkmdRNFuJFg8TeGB7oJ3GgkHnPe7E3frzonl) | | Mobile apps & web development focus - deadline: 30th of June |
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
@@ -70,6 +71,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
+|[Raya](https://careers.rayacorp.com/en/egypt/jobs/explore-summer-internship-program-2022-4493904/)| Cairo  | Open - Data analysis - Deadline: 25/06/2022 |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
 |[Stepinside V-commerce](https://wuzzuf.net/internship/QiJqt9Vh2RO5-Web-Designer---Internship-Stepinside-V-commerce-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5&fbclid=IwAR0Q0XLbUqg1pDjni7BC4aAOn-1Jiw7NvPnugVSBEdof-24mQrHW2dOvRxA)| Smouha, Alexandria | Open - <b>Paid Intern</b> -Web Designer Intern|
