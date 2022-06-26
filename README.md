@@ -43,6 +43,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Open |
+|[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Dell](https://jobs.dell.com/job/-/-/375/31463452720?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjwwdWVBhD9qde_596T-5MBEiQAIZRjpEDRBLMaw4gaw6XEco4Rg8StxlNNgUNjTO3UqqtRFWLw_wcB)| Cairo |  Open - Undergraduate Technical Support Intern|
 |[Dell Summer Academy](https://summeracademyeg.com) | Online | Open - Deadline: 30 June 2022 |
 |[Dsquares](https://dsquares.zohorecruit.com/jobs/Careers) | Cairo | Open - Multiple interns |
@@ -67,7 +68,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
-|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|  
+|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|   
 |[Machinfy](https://www.facebook.com/Machinfy/photos/a.129683178598972/557815005785785/)| Cairo | Open - Data Science internship - Deadline: 25 June|  
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[Metas Studio (Mobile Application Developer (Flutter))](https://wuzzuf.net/internship/lLb47ZgqKnFO-Mobile-Application-Developer-Flutter---Internship-Metas-Studio-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=2&fbclid=IwAR19vTa3_tgzBP0JPCTWrM5ZpY3tRYwULyirCxfGo32vxWeDX7mPk4u-tVE) | Alexandria | Open - <b> Paid </b> |
