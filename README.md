@@ -44,6 +44,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Open |
 |[Dell](https://jobs.dell.com/job/-/-/375/31463452720?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjwwdWVBhD9qde_596T-5MBEiQAIZRjpEDRBLMaw4gaw6XEco4Rg8StxlNNgUNjTO3UqqtRFWLw_wcB)| Cairo |  Open - Undergraduate Technical Support Intern|
+|[Dell Summer Academy](https://summeracademyeg.com) | Not Mentioned | Open - Deadline: 30 June 2022 |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Educatly](https://cutt.ly/Educatly) | Cairo | Open - Deadline to apply: UnKnown|
@@ -59,6 +60,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
+|[Kayzon](https://www.linkedin.com/posts/mina-nageh-9b784a131_softwareengineering-summerinternship2022-activity-6945351999211073536-nsGY/?utm_source=linkedin_share&utm_medium=android_app)| Not Mentioned | SWE / Product Owner 
 |[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
@@ -73,7 +75,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
-|[orange](https://cutt.ly/orangeAI) | Cairo | Open - Deadline to apply: UnKnown|
+|[Orange AI internship](https://www.careers-page.com/orange-eg/job/QV68X6R6) | Giza | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[PayMob](https://cutt.ly/paymob) | Not Mentioned | Open - Deadline to apply: UnKnown|
