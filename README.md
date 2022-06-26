@@ -29,7 +29,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--| 
 |[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|
+|[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 7-7-2022|
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
+|[Appgain](https://cutt.ly/Appgain) | Dokki, Giza | Open - <b>Paid</b>- Deadline to apply: UnKnown|
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
@@ -46,9 +48,11 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
+|[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown|
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b> - Deadline: End of June|
 |[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/) | Cairo | Open |
+|[GMindJ](https://cutt.ly/GmindJobs) | Remotely | Open - Deadline to apply: UnKnown|
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern: 2000 To 3000 EGP Per Month </b> |  
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Identity Solutions](https://www.facebook.com/identity.solutions.org/posts/pfbid0YDT9SeLbK7vVfvE6VH5DcwekSmRiYtkmdRNFuJFg8TeGB7oJ3GgkHnPe7E3frzonl) | | Mobile apps & web development focus - deadline: 30th of June |
@@ -58,6 +62,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Kayzon](https://www.linkedin.com/posts/mina-nageh-9b784a131_softwareengineering-summerinternship2022-activity-6945351999211073536-nsGY/?utm_source=linkedin_share&utm_medium=android_app)| Not Mentioned | SWE / Product Owner 
 |[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
+|[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
+|[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
+|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|  
 |[Machinfy](https://www.facebook.com/Machinfy/photos/a.129683178598972/557815005785785/)| Cairo | Open - Data Science internship - Deadline: 25 June|  
@@ -70,6 +77,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Orange AI internship](https://www.careers-page.com/orange-eg/job/QV68X6R6) | Giza | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
+|[PayMob](https://cutt.ly/paymob) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
 |[Raya](https://careers.rayacorp.com/en/egypt/jobs/explore-summer-internship-program-2022-4493904/)| Cairo  | Open - Data analysis - Deadline: 25/06/2022 |
@@ -88,7 +96,17 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open - Data Analysis Intern|
+|[Xceed](https://cutt.ly/Xceed) | Maadi, Cairo | Open - Deadline to apply: 28-June-2022|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
+
+
+
+
+
+
+
+
+
 
   
 
@@ -109,6 +127,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
+|[Educatly](https://cutt.ly/Educatly) | Cairo | Closed |
 |[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| Cairo | Closed |
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
@@ -156,4 +175,3 @@ We love our collaborators 💜💜
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
 * [Youssef Bazina](https://github.com/Bazina)
 * [Bassant Yasser](https://github.com/Bassantyasser043)
-
