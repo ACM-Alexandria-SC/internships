@@ -93,7 +93,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SIEMENS Healthineers](https://www.facebook.com/Tarek.Elashraf.Siemens/videos/1196491004450436/)|Hyprid| Open - DeadLine: 30/06/2022 |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[TPAY Mobile](https://tpaymobile.com/careers/) | Cairo | Open - Deadline: 25/06/2022 |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open - Data Analysis Intern|
@@ -161,6 +160,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Town4One](https://www.linkedin.com/company/town4one/?originalSubdomain=eg) |Sheikh Zayed |Closed|
+|[TPAY Mobile](https://tpaymobile.com/) | Cairo | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
