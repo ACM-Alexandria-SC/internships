@@ -82,7 +82,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[PayMob](https://cutt.ly/paymob) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |  
-|[Raya](https://careers.rayacorp.com/en/egypt/jobs/explore-summer-internship-program-2022-4493904/)| Cairo  | Open - Data analysis - Deadline: 25/06/2022 |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
 |[Stepinside V-commerce](https://wuzzuf.net/internship/QiJqt9Vh2RO5-Web-Designer---Internship-Stepinside-V-commerce-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5&fbclid=IwAR0Q0XLbUqg1pDjni7BC4aAOn-1Jiw7NvPnugVSBEdof-24mQrHW2dOvRxA)| Smouha, Alexandria | Open - <b>Paid Intern</b> -Web Designer Intern|
@@ -151,6 +150,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |
+|[Raya](https://www.rayacorp.com/)| Cairo | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|   
