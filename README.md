@@ -63,7 +63,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
 |[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|    
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
@@ -94,17 +93,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open - Data Analysis Intern|
 |[Xceed](https://cutt.ly/Xceed) | Maadi, Cairo | Open - Deadline to apply: 28-June-2022|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
-
-
-
-
-
-
-
-
-
-
-  
 
 ## Closed Internships :card_file_box:
 
@@ -140,6 +128,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |
 |[Izam](http://www.izam.co) | Mohandessin - Giza |Closed|
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
+|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
 |[Link Development](https://linkdevelopment.com/careers/opportunities/)| Cairo | Closed |  
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
@@ -155,7 +144,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Closed |
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
-|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| Cairo |Closed|
+|[Synapse analytics](https://www.synapse-analytics.io/summer-internship)| Cairo |Closed|
 |[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
 |[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
 |[Town4One](https://www.linkedin.com/company/town4one/?originalSubdomain=eg) |Sheikh Zayed |Closed|
