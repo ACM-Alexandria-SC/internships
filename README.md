@@ -40,7 +40,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Open |
 |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
-|[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Open |
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Dell](https://jobs.dell.com/job/-/-/375/31463452720?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjwwdWVBhD9qde_596T-5MBEiQAIZRjpEDRBLMaw4gaw6XEco4Rg8StxlNNgUNjTO3UqqtRFWLw_wcB)| Cairo |  Open - Undergraduate Technical Support Intern|
 |[Dell Summer Academy](https://summeracademyeg.com) | Online | Open - Deadline: 30 June 2022 |
@@ -107,6 +106,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Brightskies](https://brightskiesinc.com/careers/4/) | Alexandria | Closed |
 |[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
 |[Coformatique](https://www.coformatique.com/) | Cairo | Closed |
+|[Cross workers](https://careers.crossworkers-egypt.com/)| Cairo | Closed |
 |[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
