@@ -49,7 +49,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[EGSA- Egyptian Space Agency](https://www.facebook.com/groups/760191401103407/posts/1486287768493763/) | Online | Open - Embedded Systems - Deadline to apply: UnKnown|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown| 
-|[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Remote |Open - <b>Paid Intern</b> - Deadline: End of June|
 |[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely | Open - Deadline to apply: UnKnown|
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern: 2000 To 3000 EGP Per Month </b> |  
@@ -111,6 +110,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[Educatly](https://cutt.ly/Educatly) | Cairo | Closed |
 |[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| Cairo | Closed |
+|[Espace](https://espace.com.eg/) | Remote | Closed |
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
