@@ -42,7 +42,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Dell](https://jobs.dell.com/job/-/-/375/31463452720?source=rd_LinkedIn&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560378&ss=paid&dclid=CjkKEQjwwdWVBhD9qde_596T-5MBEiQAIZRjpEDRBLMaw4gaw6XEco4Rg8StxlNNgUNjTO3UqqtRFWLw_wcB)| Cairo |  Open - Undergraduate Technical Support Intern|
-|[Dell Summer Academy](https://summeracademyeg.com) | Online | Open - Deadline: 30 June 2022 |
+|[Dell Summer Academy](https://summeracademyeg.com) | Online | Open - Deadline: 1 July 2022 |
 |[Dsquares](https://dsquares.zohorecruit.com/jobs/Careers) | Cairo | Open - Multiple interns |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
