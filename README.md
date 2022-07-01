@@ -30,6 +30,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |---|---|-------------|--| 
 |[Amazon Egypt SDE Intern](https://www.amazon.jobs/en/jobs/2123543/software-dev-engineer-intern) | Cairo | Open |
 |[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|
+|[Atos Tamayoz Internship Program- Microsoft](https://jobs.atos.net/job/Cairo-Tamayoz-Internship-Program-Microsoft-Cair/814338701/) | Cairo | Open - for fresh graduates|
 |[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 7-7-2022|
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
