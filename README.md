@@ -138,7 +138,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://www.linkedin.com/company/sequel-solutions/about/) |Downtown Cairo| Closed |
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|  
-|[SIEMENS](https://www.siemens.com/global/en.html)|Hyprid| OClosed |
+|[SIEMENS](https://www.siemens.com/global/en.html)|Hyprid| Closed |
 |[SIEMENS Healthineers](https://www.siemens-healthineers.com/)|Hyprid| Closed |
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Closed |
