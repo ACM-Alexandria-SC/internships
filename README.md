@@ -78,8 +78,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
-|[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
-|[SIEMENS Healthineers](https://www.facebook.com/Tarek.Elashraf.Siemens/videos/1196491004450436/)|Hyprid| Open - DeadLine: 30/06/2022 |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[The Inshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|
@@ -139,7 +137,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Closed |
 |[Seuqel Solutions](https://www.linkedin.com/company/sequel-solutions/about/) |Downtown Cairo| Closed |
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
-|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|   
+|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|  
+|[SIEMENS](https://www.siemens.com/global/en.html)|Hyprid| OClosed |
+|[SIEMENS Healthineers](https://www.siemens-healthineers.com/)|Hyprid| Closed |
 |[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Closed |
 |[Stepinside V-commerce](https://stepinside.me/)| Smouha, Alexandria |Closed|
