@@ -46,7 +46,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dsquares](https://dsquares.zohorecruit.com/jobs/Careers) | Cairo | Open - Multiple interns |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
-|[EGSA- Egyptian Space Agency](https://www.facebook.com/groups/760191401103407/posts/1486287768493763/) | Online | Open - Embedded Systems - Deadline to apply: UnKnown|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown| 
 |[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|
@@ -106,7 +105,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Easy System](http://eysmt.com/)| Cairo | Closed |
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[Educatly](https://cutt.ly/Educatly) | Cairo | Closed |
-|[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| Cairo | Closed |
+|[EgSA](https://www.linkedin.com/company/egyptian-space-agency/?originalSubdomain=eg)| Cairo | Closed |
 |[Espace](https://espace.com.eg/) | Remote | Closed |
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
