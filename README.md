@@ -82,7 +82,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Inshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open - Data Analysis Intern|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
 ## Closed Internships :card_file_box:
@@ -155,6 +154,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[VERO](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
+|[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Closed - Data Analysis Intern|
+
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
