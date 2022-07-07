@@ -154,8 +154,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[VERO](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
-|[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Closed - Data Analysis Intern|
-
+|[Versed AI](https://www.versed.ai/) | Remote | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
