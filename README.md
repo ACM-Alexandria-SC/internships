@@ -50,6 +50,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely | Open - Deadline to apply: UnKnown|
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern: 2000 To 3000 EGP Per Month </b> |  
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
+|[IBM](https://careers.ibm.com/job/16190549/data-summer-internship-2022-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open - Data analysis |
 |[Incorta](https://www.incorta.com/careers?gh_jid=6205946002) | Remote | Open |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
@@ -117,7 +118,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
 |[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
-|[IBM Technical support intern](https://www.ibm.com/employment/) | Cairo |Closed |
 |[Identity Solutions](https://identity-solutions.org/) | | Closed |
 |[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |  
 |[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |
