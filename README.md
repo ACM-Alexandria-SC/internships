@@ -82,6 +82,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Inshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
+|[WideBot](https://docs.google.com/forms/d/e/1FAIpQLScfHDJU7tv6t2FZMo_EKTOwNT2c6lhjUA4CQ0s1SqX2or1K7w/viewform)| Cairo | Open - Deadline: 30/7/2022 |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
 ## Closed Internships :card_file_box:
