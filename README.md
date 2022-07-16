@@ -61,7 +61,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
 |[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
-|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open|    
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[Metas Studio (Mobile Application Developer (Flutter))](https://wuzzuf.net/internship/lLb47ZgqKnFO-Mobile-Application-Developer-Flutter---Internship-Metas-Studio-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=2&fbclid=IwAR19vTa3_tgzBP0JPCTWrM5ZpY3tRYwULyirCxfGo32vxWeDX7mPk4u-tVE) | Alexandria | Open - <b> Paid </b> - Deadline: 17/7/2022 |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
@@ -131,6 +130,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
 |[Machinfy](https://machinfy.com/)| Cairo | Closed | 
 |[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
+|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Closed|    
 |[Nichepharma](http://www.nichepharma.com/index.html) | Sheikh Zayed, Giza |Closed|
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
