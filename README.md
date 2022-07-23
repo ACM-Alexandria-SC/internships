@@ -32,7 +32,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|
 |[Atos Tamayoz Internship Program- Microsoft](https://jobs.atos.net/job/Cairo-Tamayoz-Internship-Program-Microsoft-Cair/814338701/) | Cairo | Open - for fresh graduates|
 |[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 31-7-2022|
-|[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
@@ -90,6 +89,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Algoriza](https://www.linkedin.com/company/algoriza/?originalSubdomain=eg) | Cairo |Closed|
 |[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
 |[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed |
+|[Appgain](https://www.linkedin.com/company/appgain/) | Giza |Closed|
 |[ARPU PLUS](https://www.arpuplus.com/careers) |Giza - Egypt|Closed|
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
