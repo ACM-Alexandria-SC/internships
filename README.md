@@ -29,7 +29,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--| 
 |[Amazon Egypt SDE Intern](https://www.amazon.jobs/en/jobs/2123543/software-dev-engineer-intern) | Cairo | Open |
-|[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|
 |[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 31-7-2022|
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
@@ -85,6 +84,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
 |[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed |
 |[Appgain](https://www.linkedin.com/company/appgain/) | Giza |Closed|
+|[ARQQA](https://arqqa.net/careers/) | Cairo |Closed|
 |[ARPU PLUS](https://www.arpuplus.com/careers) |Giza - Egypt|Closed|
 |[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
 |[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
