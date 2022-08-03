@@ -29,7 +29,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--| 
 |[Amazon Egypt SDE Intern](https://www.amazon.jobs/en/jobs/2123543/software-dev-engineer-intern) | Cairo | Open |
-|[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 31-7-2022|
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
@@ -80,6 +79,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[AFKAR Technology](http://www.afkarcorp.com) | Cairo |Closed|
+|[Alexandria For Programming](https://alexforprog.com/) | Alex  | Closed |
 |[Algoriza](https://www.linkedin.com/company/algoriza/?originalSubdomain=eg) | Cairo |Closed|
 |[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
 |[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed |
