@@ -70,6 +70,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
+|[Vmware](https://careers.vmware.com/main/jobs/R2209598?lang=en-us)| Abroad | Open |
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
