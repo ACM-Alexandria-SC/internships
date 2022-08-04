@@ -67,6 +67,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
+|[VmWare](https://careers.vmware.com/main/jobs/R2209598?lang=en-us) | Abroad | Not Yet |
 
 
 
