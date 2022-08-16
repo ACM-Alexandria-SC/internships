@@ -42,7 +42,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown| 
 |[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Garment IO](https://garment.io/careers/software-engineer-intern/) | Sheikh Zayed | Open |
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely  | Open |
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
@@ -103,6 +102,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
 |[Gameball](https://www.gameball.co/) | Cairo | Closed |
+|[Garment IO](https://garment.io/careers/) | Sheikh Zayed | Closed |
 |[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
 |[Giza Systems](https://gizasystems.com/) | Cairo | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
