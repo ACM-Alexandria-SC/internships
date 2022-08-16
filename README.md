@@ -58,7 +58,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
-|[RentUp](https://wuzzuf.net/internship/WDmccWJRavCR-Backend-Developer-Laravel-Intern-RentUp-Cairo-Egypt?o=2&l=sp&t=sj&a=software%20intern|search-v3|navbg)| Cairo  | Open -  <b>Paid</b> - Backend Laravel Intern |
+|[RentUp](shorturl.at/mop78) | Cairo  | Open -  <b>Paid</b> - Backend Laravel Intern |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
