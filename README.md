@@ -56,6 +56,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
+|[Pimula](https://www.linkedin.com/posts/pimula_if-you-are-passionate-about-technology-and-activity-6963945169343639552-gZe9?utm_source=linkedin_share&utm_medium=member_desktop_web) | Alexandria | Open |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[RentUp](https://bit.ly/3bVh7lw) | Cairo  | Open -  <b>Paid</b> - Backend Laravel Intern |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
