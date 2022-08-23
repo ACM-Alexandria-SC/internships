@@ -27,10 +27,10 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 ## Internships :necktie:
 
-| Name  |  Location |  Notes | Status |
-|---|---|-------------|--| 
-|[~~Beetleware Software Testing~~](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
-|[~~Blink22~~](https://blink22.com/) | Alexandria | Not Yet |
+| Name  |  Location |  Notes |
+|---|---|-------------| 
+|[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
+|[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | - |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/) | Cairo | Open |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Open |
@@ -154,7 +154,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[~~VERO~~](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
 |[~~Versed AI~~](https://www.versed.ai/) | Remote | Closed |
 |[~~Vezeeta~~](https://careers.vezeeta.com/)| Cairo | Closed |
-|[~~Vodafone ~~](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
+|[~~Vodafone~~](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
 |[~~Webalo~~](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[~~WebsOps~~](https://www.thewebops.com/) | Cairo | Closed |
 |[~~WideBot~~](https://widebot.net/)| Cairo | Closed |
