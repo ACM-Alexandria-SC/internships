@@ -27,7 +27,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 ## Internships :necktie:
 
-| Name  |  Location |  Notes |
+| Name  |  Location |  Notes | Status |
 |---|---|-------------|--| 
 |[~~Beetleware Software Testing~~](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[~~Blink22~~](https://blink22.com/) | Alexandria | Not Yet |
