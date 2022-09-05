@@ -39,7 +39,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
-|[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown| 
 |[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely  | Open |
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
@@ -55,13 +54,11 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
-|[Pimula](https://www.linkedin.com/posts/pimula_if-you-are-passionate-about-technology-and-activity-6963945169343639552-gZe9?utm_source=linkedin_share&utm_medium=member_desktop_web) | Alexandria | Open |
 |[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[RentUp](https://bit.ly/3bVh7lw) | Cairo  | Open -  <b>Paid</b> - Backend Laravel Intern |
 |[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
-|[SmartTech](https://bit.ly/3R43YWv)| Cairo  | Open -  <b>Paid</b> |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
@@ -99,6 +96,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[Educatly](https://cutt.ly/Educatly) | Cairo | Closed |
 |[EgSA](https://www.linkedin.com/company/egyptian-space-agency/?originalSubdomain=eg)| Cairo | Closed |
+|[Envision](https://jobs.lever.co/envisionemploymentsolutions) | 6TH OF OCTOBER, GIZA |Closed| 
 |[Espace](https://espace.com.eg/) | Remote | Closed |
 |[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
@@ -129,6 +127,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Nichepharma](http://www.nichepharma.com/index.html) | Sheikh Zayed, Giza |Closed|
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[PayMob](https://www.facebook.com/PaymobCompany/) | Not Mentioned | Closed |
+|[Pimula](https://www.linkedin.com/company/pimula/) | Alexandria | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/careers/) | Alexandria | Closed |
 |[Procrew](https://www.procrew.pro/vacancies/) | Alexandria |Closed|  
@@ -141,7 +140,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|  
 |[SIEMENS](https://www.siemens.com/global/en.html)|Hyprid| Closed |
 |[SIEMENS Healthineers](https://www.siemens-healthineers.com/)|Hyprid| Closed |
-|[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
+|[SmartTech](https://www.smarttechsys.com/index.html)| Cairo  |Closed|
+|[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed |
 |[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Closed |
 |[Stepinside V-commerce](https://stepinside.me/)| Smouha, Alexandria |Closed|
 |[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
