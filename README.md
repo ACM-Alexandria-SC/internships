@@ -43,7 +43,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
-|[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Open |
+|[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Closed for now but will open again in 1/10/2022 |
 |[Kayzon](https://www.linkedin.com/posts/mina-nageh-9b784a131_softwareengineering-summerinternship2022-activity-6945351999211073536-nsGY/?utm_source=linkedin_share&utm_medium=android_app)| Not Mentioned | SWE / Product Owner 
 |[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
