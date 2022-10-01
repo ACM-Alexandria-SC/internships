@@ -21,13 +21,14 @@ Some of the internships may require a technical interview
 ## Stack Info
 Stack Info allows you to explore and find tech stacks used by startups and corporates in Egypt.
 
-- Check this awesome [***Stack Info***](http://www.stackinfo.me/) 
+- Check this awesome [***Stack Info***](http://www.stackinfo.me/)
 
 
 ## Internships :necktie:
 
 | Name  |  Location |  Notes | status |
-|---|---|-------------|--| 
+|---|---|-------------|--|
+|[Amazon]()https://www.amazon.jobs/en/jobs/2205822/2023-software-development-engineer-internship| berlin | open
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
@@ -39,13 +40,14 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
+|[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely  | Open |
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Closed for now but will open again in 1/10/2022 |
-|[Kazyon-Plus](https://www.linkedin.com/posts/mina-nageh-9b784a131_softwareengineering-summerinternship2022-activity-6945351999211073536-nsGY/?utm_source=linkedin_share&utm_medium=android_app)| Not Mentioned | SWE / Product Owner 
-|[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |  
+|[Kazyon-Plus](https://www.linkedin.com/posts/mina-nageh-9b784a131_softwareengineering-summerinternship2022-activity-6945351999211073536-nsGY/?utm_source=linkedin_share&utm_medium=android_app)| Not Mentioned | SWE / Product Owner
+|[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Magdsoft](https://www.linkedin.com/posts/dinadibrahim_google-forms-sign-in-activity-6940824354444185600-FdDu/?utm_source=linkedin_share&utm_medium=android_app) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |
 |[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
@@ -94,9 +96,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
 |[Educatly](https://cutt.ly/Educatly) | Cairo | Closed |
 |[EgSA](https://www.linkedin.com/company/egyptian-space-agency/?originalSubdomain=eg)| Cairo | Closed |
-|[Envision](https://jobs.lever.co/envisionemploymentsolutions) | 6TH OF OCTOBER, GIZA |Closed| 
+|[Envision](https://jobs.lever.co/envisionemploymentsolutions) | 6TH OF OCTOBER, GIZA |Closed|
 |[Espace](https://espace.com.eg/) | Remote | Closed |
-|[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
+|[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |
 |[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
 |[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
 |[Flextock](https://www.flextock.com/) | Not Mentioned | Open - Deadline to apply: UnKnown|
@@ -110,18 +112,18 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[IBM](https://www.ibm.com/employment/) | Cairo |Closed|
 |[Identity Solutions](https://identity-solutions.org/) | | Closed |
 |[Incorta](https://www.incorta.com/) | Remote | Closed |
-|[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |  
+|[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |
 |[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |
 |[Izam](http://www.izam.co) | Mohandessin - Giza |Closed|
 |[J&T Express](https://www.jtexpress-eg.com/joinus) | Cairo |Closed|
 |[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
 |[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Closed |
 |[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
-|[Link Development](https://linkdevelopment.com/careers/opportunities/)| Cairo | Closed |  
+|[Link Development](https://linkdevelopment.com/careers/opportunities/)| Cairo | Closed |
 |[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
-|[Machinfy](https://machinfy.com/)| Cairo | Closed | 
+|[Machinfy](https://machinfy.com/)| Cairo | Closed |
 |[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
-|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Closed|   
+|[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Closed|
 |[Metas Studio](www.metas.us) | Alexandria |Closed|
 |[Nichepharma](http://www.nichepharma.com/index.html) | Sheikh Zayed, Giza |Closed|
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
@@ -129,7 +131,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Pimula](https://www.linkedin.com/company/pimula/) | Alexandria | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/careers/) | Alexandria | Closed |
-|[Procrew](https://www.procrew.pro/vacancies/) | Alexandria |Closed|  
+|[Procrew](https://www.procrew.pro/vacancies/) | Alexandria |Closed|
 |[R2S](https://r2slogistics.com/)| Cairo  | Closed |
 |[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |
 |[Raya](https://www.rayacorp.com/)| Cairo | Closed |
@@ -138,7 +140,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Closed |
 |[Seuqel Solutions](https://www.linkedin.com/company/sequel-solutions/about/) |Downtown Cairo| Closed |
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
-|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|  
+|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|
 |[SIEMENS](https://www.siemens.com/global/en.html)|Hyprid| Closed |
 |[SIEMENS Healthineers](https://www.siemens-healthineers.com/)|Hyprid| Closed |
 |[SmartTech](https://www.smarttechsys.com/index.html)| Cairo  |Closed|
@@ -152,13 +154,13 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Town4One](https://www.linkedin.com/company/town4one/?originalSubdomain=eg) |Sheikh Zayed |Closed|
 |[TPAY Mobile](https://tpaymobile.com/) | Cairo | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
-|[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
+|[Trianglz](https://www.trianglz.com/) | Alexandria | Closed |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[VERO](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
 |[Versed AI](https://www.versed.ai/) | Remote | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
-|[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
+|[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed |
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
 |[WideBot](https://widebot.net/)| Cairo | Closed |
