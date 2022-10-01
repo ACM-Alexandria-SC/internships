@@ -62,6 +62,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[The Inshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|
+|[Trufla Technology](https://trufla.applytojobs.ca/egypt/15965) | Cairo  | Open - <b>Unpaid Intern</b> -Multiple interns for fresh graduates |
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
@@ -69,7 +70,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Amazon Egypt SDE Intern](https://www.amazon.jobs/en) | Cairo | Closed |
 |[AFKAR Technology](http://www.afkarcorp.com) | Cairo |Closed|
 |[Alexandria For Programming](https://alexforprog.com/) | Alex  | Closed |
 |[Algoriza](https://www.linkedin.com/company/algoriza/?originalSubdomain=eg) | Cairo |Closed|
