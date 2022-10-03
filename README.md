@@ -1,12 +1,14 @@
 # Summer 2022 Tech Internships for Egyptian Students 👩‍💻
 
 ## Contents
-- [Contribution](#contribution)
-- [Tips for the interview](#tips-for-the-interview)
-- [Stack Info](#Stack-Info)
-- [Opened Internships :necktie:](#internships-necktie)
-- [Closed Internships :card_file_box:](#closed-internships-card_file_box)
-- [Collaborators](#Collaborators)
+- [Summer 2022 Tech Internships for Egyptian Students 👩‍💻](#summer-2022-tech-internships-for-egyptian-students-)
+  - [Contents](#contents)
+  - [Contribution](#contribution)
+  - [Tips for the interview](#tips-for-the-interview)
+  - [Stack Info](#stack-info)
+  - [Internships :necktie:](#internships-necktie)
+  - [Closed Internships :card_file_box:](#closed-internships-card_file_box)
+  - [Collaborators](#collaborators)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
 - Make a Pull Request
@@ -43,6 +45,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
 |[GMindJ](https://gmindeg.com/job/backend-developer/) | Remotely  | Open - Backened internship |
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
+|[Huawei](https://www.linkedin.com/jobs/view/3275859453)|Cairo (Giza)| Open - SWE intern |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Closed for now but will open again in 1/10/2022 |
