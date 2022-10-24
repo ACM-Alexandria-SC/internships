@@ -30,7 +30,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Amazon](https://www.amazon.jobs/en/jobs/2205822/2023-software-development-engineer-internship)| berlin | open
+|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | open
 |[Beetleware Software Testing](https://m.facebook.com/story.php?story_fbid=pfbid02mxTf2SBMCtQfpZ2PDdCzUSjVKk3SSM1Ciipeg1xXtxa1NR5SjrZebeKJo4NydJDdl&id=137070463460249) | Not Mentioned | Open - <b>With Bonus</b> |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/) | Cairo | Open |
@@ -43,7 +43,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
 |[GMindJ](https://gmindeg.com/job/backend-developer/) | Remotely  | Open - Backened internship |
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
-|[Huawei](https://www.linkedin.com/jobs/view/3275859453)|Cairo (Giza)| Open - SWE intern |
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Closed for now but will open again in 1/10/2022 |
@@ -111,6 +110,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Giza Systems](https://gizasystems.com/) | Cairo | Closed |
 |[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
 |[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
+|[Huawei](https://www.linkedin.com/jobs/view/3275859453)|Cairo (Giza)|Closed|
 |[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
 |[IBM](https://www.ibm.com/employment/) | Cairo |Closed|
 |[Identity Solutions](https://identity-solutions.org/) | | Closed |
