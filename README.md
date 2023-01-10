@@ -57,15 +57,12 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |
 |[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
-|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[The Inshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|
-|[Trufla Technology](https://trufla.applytojobs.ca/egypt/15965) | Cairo  | Open - <b>Unpaid Intern</b> -Multiple interns for fresh graduates |
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 |[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
 ## Closed Internships :card_file_box:
@@ -133,6 +130,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Nichepharma](http://www.nichepharma.com/index.html) | Sheikh Zayed, Giza |Closed|
 |[Outreachy](https://www.outreachy.org/)| Remote | Closed |
 |[PayMob](https://www.facebook.com/PaymobCompany/) | Not Mentioned | Closed |
+|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Closed |
 |[Pimula](https://www.linkedin.com/company/pimula/) | Alexandria | Closed |
 |[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/careers/) | Alexandria | Closed |
@@ -160,6 +158,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[TPAY Mobile](https://tpaymobile.com/) | Cairo | Closed |
 |[Trella](https://www.trella.app/) | Cairo | Closed |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Closed |
+|[Trufla Technology](https://trufla.applytojobs.ca/) | Cairo  | Closed|
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote |Closed|
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Closed |
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[VERO](https://www.linkedin.com/company/vero-as/?originalSubdomain=eg) |Cairo|Closed|
