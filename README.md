@@ -54,7 +54,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[ZINAD IT](https://zinad.net/internship-program.html)| Remote | Open - Multiple Internships |
 
 ## Closed Internships :card_file_box:
 
