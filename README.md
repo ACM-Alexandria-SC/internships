@@ -48,7 +48,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[Intern'spedia](https://rb.gy/lzvzpl) | Remote | Closed for now but will open again in 1/10/2022 |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
-|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Open - <b> Paid Intern </b> - Multiple Interns |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
