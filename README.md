@@ -1,7 +1,7 @@
 # Summer 2023 Tech Internships for Egyptian Students 👩‍💻
 
 ## Contents
-- [Summer 2022 Tech Internships for Egyptian Students 👩‍💻](#summer-2022-tech-internships-for-egyptian-students-)
+- [Summer 2023 Tech Internships for Egyptian Students 👩‍💻](#summer-2023-tech-internships-for-egyptian-students-)
   - [Contents](#contents)
   - [Contribution](#contribution)
   - [Tips for the interview](#tips-for-the-interview)
