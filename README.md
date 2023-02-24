@@ -55,7 +55,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|Microsoft Egypt | Cairo | Closed |
+|[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 
 ## Collaborators
 We love our collaborators 💜💜
