@@ -55,6 +55,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|Microsoft Egypt | Cairo | Closed |
 
 ## Collaborators
 We love our collaborators 💜💜
