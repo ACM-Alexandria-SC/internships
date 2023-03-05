@@ -50,6 +50,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Money Fellows](https://www.linkedin.com/jobs/view/3495982547) | Cairo | Open - **Paid Intern** - Backend Internship |
+|[Money Fellows](https://www.linkedin.com/jobs/view/3495980837) | Cairo | Open - Frontend Internship |
+|[Money Fellows](https://www.linkedin.com/jobs/view/3495980762) | Cairo | Open - **Paid Intern** - FullStack Internship |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
