@@ -30,7 +30,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | open
+|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | open |
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Open |
@@ -54,7 +55,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 
 ## Closed Internships :card_file_box:
 
