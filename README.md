@@ -45,7 +45,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Open - <b> Paid Intern </b> |
 |[ITWORX](https://www.itworx.com/fast-track-application/) | Cairo | Open - python, java, dotnet or react |
-|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Egypt | Software internship |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
@@ -62,6 +61,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
+|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
 ## Collaborators
 We love our collaborators 💜💜
 
@@ -69,3 +69,5 @@ We love our collaborators 💜💜
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
 * [Youssef Bazina](https://github.com/Bazina)
 * [Bassant Yasser](https://github.com/Bassantyasser043)
+* [Mostafa Hisham](https://github.com/mostafahisham03)
+
