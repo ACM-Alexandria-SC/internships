@@ -51,7 +51,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Open - Deadline : 31/3|
+|[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Open - Frontend Intern |
+
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
@@ -63,6 +64,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
+|[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 ## Collaborators
 We love our collaborators 💜💜
 
