@@ -30,7 +30,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | open |
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
@@ -57,6 +56,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Atomica](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)| Cairo | Closed | 
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
