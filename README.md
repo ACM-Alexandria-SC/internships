@@ -30,9 +30,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern |
-|[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
-|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | open |
+|[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern - (Junior Level / Fresh Grad)|
+|[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern - (Junior Level / Fresh Grad)|
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
@@ -44,8 +43,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open |
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
-|[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
-|[ITWORX](https://www.itworx.com/fast-track-application/) | Cairo | Open - python, java, dotnet or react |
+|[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
+|[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Open - .NET & React |
+|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)|Cairo|Open|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Open - Backend Intern |
 |[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Open - Frontend Intern |
@@ -55,6 +55,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
+|[Synapse](https://synapseanalytics.recruitee.com/)| Cairo/Remote | Open - backend, frontend, devops, ML/CV, data science |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 
@@ -62,6 +63,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Atomica](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)| Cairo | Closed | 
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
