@@ -30,6 +30,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern - (Junior Level / Fresh Grad)|
+|[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern - (Junior Level / Fresh Grad)|
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
@@ -50,6 +52,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
+|[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
+|[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
+|[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
 |[Synapse](https://synapseanalytics.recruitee.com/)| Cairo/Remote | Open - backend, frontend, devops, ML/CV, data science |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
