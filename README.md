@@ -58,6 +58,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Remote | Open - python django backend |
 |[Synapse frontend intern](https://synapseanalytics.recruitee.com/o/frontend-engineering-internship-cairo)| Remote | Open - React.js |
 |[Synapse DevOps intern](https://synapseanalytics.recruitee.com/o/devops-engineering-internship)| Remote | Open - Docker, python, linux, git |
+|[Synapse ML/CV intern](https://synapseanalytics.recruitee.com/o/machine-learning-engineering-internship-computer-vision)| Remote | Open - Python, SQL, TF2/Pytorch, git|
 |[Synapse data science intern](https://synapseanalytics.recruitee.com/o/data-science-internship)| Remote | Open - Python/R & Database |
 |[Synapse data science consultant intern](https://synapseanalytics.recruitee.com/o/data-science-consultant-internship)| Remote | Open - MS office / excel |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
