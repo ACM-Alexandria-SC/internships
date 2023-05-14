@@ -61,6 +61,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Synapse ML/CV intern](https://synapseanalytics.recruitee.com/o/machine-learning-engineering-internship-computer-vision)| Remote | Open - Python, SQL, TF2/Pytorch, git|
 |[Synapse data science intern](https://synapseanalytics.recruitee.com/o/data-science-internship)| Remote | Open - Python/R & Database |
 |[Synapse data science consultant intern](https://synapseanalytics.recruitee.com/o/data-science-consultant-internship)| Remote | Open - MS office / excel |
+|[Synapse product owner intern](https://synapseanalytics.recruitee.com/o/product-owner-internship)| Cairo | Open - Agile, communication skills, management skills|
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 
