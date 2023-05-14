@@ -57,6 +57,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
 |[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Remote | Open - python django backend |
 |[Synapse frontend intern](https://synapseanalytics.recruitee.com/o/frontend-engineering-internship-cairo)| Remote | Open - React.js |
+|[Synapse mobile intern](https://synapseanalytics.recruitee.com/o/react-native-mobile-development-internship)| Remote | Open - React Native |
 |[Synapse DevOps intern](https://synapseanalytics.recruitee.com/o/devops-engineering-internship)| Remote | Open - Docker, python, linux, git |
 |[Synapse ML/CV intern](https://synapseanalytics.recruitee.com/o/machine-learning-engineering-internship-computer-vision)| Remote | Open - Python, SQL, TF2/Pytorch, git|
 |[Synapse data science intern](https://synapseanalytics.recruitee.com/o/data-science-internship)| Remote | Open - Python/R & Database |
