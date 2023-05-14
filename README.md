@@ -55,7 +55,15 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
-|[Synapse](https://synapseanalytics.recruitee.com/)| Cairo/Remote | Open - backend, frontend, devops, ML/CV, data science |
+|[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Cairo/Hybrid | Open - python django backend |
+|[Synapse frontend intern](https://synapseanalytics.recruitee.com/o/frontend-engineering-internship-cairo)| Cairo/Hybrid | Open - React.js |
+|[Synapse mobile intern](https://synapseanalytics.recruitee.com/o/react-native-mobile-development-internship)| Cairo/Hybrid | Open - React Native |
+|[Synapse UI/UX intern](https://synapseanalytics.recruitee.com/o/ui-ux-internship)| Cairo/Hybrid | Open - Figma |
+|[Synapse DevOps intern](https://synapseanalytics.recruitee.com/o/devops-engineering-internship)| Cairo/Hybrid | Open - Docker, python, linux, git |
+|[Synapse ML/CV intern](https://synapseanalytics.recruitee.com/o/machine-learning-engineering-internship-computer-vision)| Cairo/Hybrid | Open - Python, SQL, TF2/Pytorch, git|
+|[Synapse data science intern](https://synapseanalytics.recruitee.com/o/data-science-internship)| Cairo/Hybrid | Open - Python/R & Database |
+|[Synapse data science consultant intern](https://synapseanalytics.recruitee.com/o/data-science-consultant-internship)| Cairo | Open - MS office / excel |
+|[Synapse product owner intern](https://synapseanalytics.recruitee.com/o/product-owner-internship)| Cairo | Open - Agile, communication skills, management skills|
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 
