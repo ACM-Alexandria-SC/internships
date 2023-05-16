@@ -36,12 +36,14 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
+|[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 | [Eventum Solutions](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open |
 |[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open |
+|[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
