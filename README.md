@@ -7,7 +7,7 @@
   - [Tips for the interview](#tips-for-the-interview)
   - [Stack Info](#stack-info)
   - [Internships :necktie:](#internships-necktie)
-  - [Closed Internships :card_file_box:](#closed-internships-card_file_box)
+  - [Closed Internships :card\_file\_box:](#closed-internships-card_file_box)
   - [Collaborators](#collaborators)
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
@@ -50,6 +50,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Open - Backend Intern |
 |[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Open - Frontend Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
+|[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
