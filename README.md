@@ -38,6 +38,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
+|[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
@@ -47,6 +48,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Eventum Solutions Data Science Internship](https://odoo.eventumsolutions.com/jobs/detail/data-science-summer-internship-502) | Alexandria | Open - Deadline: June 10th |
 |[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open |
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open
+[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Open - .NET & React |
@@ -55,6 +57,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Open - Backend Intern |
 |[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Open - Frontend Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
 |[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
 |[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
