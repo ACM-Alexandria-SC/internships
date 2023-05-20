@@ -41,6 +41,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
+|[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | Open - General IT and Technology |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
 |[Eventum Solutions Software Internship](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open - Deadline: May 31th |
@@ -51,12 +52,16 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
-|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)|Cairo|Open|
+|[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
+|[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
+|[Procore](https://careers.procore.com/jobs/software-engineer-intern-cairo-c-egypt?source=linkedin_limited_listing&utm_source=linkedin_limited_listing#apply) | Cairo | Open - NA / Software and Web |
+|[P&G Software Intern](https://www.pgcareers.com/job/cairo/it-project-manager-summer23-internship-undergrads/936/47721630896) | Cairo | Open - Application integrations, Data analysis |
+|[P&G/PwC Cyber security team](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=416677WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | N/A | Open - Cyber security, SOC intern |
 |[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
 |[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/)|Alexandria|Open - Summer Internship Program|
@@ -79,8 +84,10 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Synapse product owner intern](https://synapseanalytics.recruitee.com/o/product-owner-internship)| Cairo | Open - Agile, communication skills, management skills|
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
+|[Vodafone](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2023/937096201) | Hybrid (cairo/giza) | Open - Vodanation summer program for most fields |
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
 |[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
+
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
