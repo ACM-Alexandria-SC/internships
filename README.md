@@ -79,7 +79,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
-
+|[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
