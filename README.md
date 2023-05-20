@@ -57,15 +57,20 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
 |[Procore](https://careers.procore.com/jobs/software-engineer-intern-cairo-c-egypt?source=linkedin_limited_listing&utm_source=linkedin_limited_listing#apply) | Cairo | Open - NA / Software and Web |
 |[P&G Software Intern](https://www.pgcareers.com/job/cairo/it-project-manager-summer23-internship-undergrads/936/47721630896) | Cairo | Open - Application integrations, Data analysis |
 |[P&G/PwC Cyber security team](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=416677WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | N/A | Open - Cyber security, SOC intern |
 |[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
 |[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
+|[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/)|Alexandria|Open - Summer Internship Program|
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
+|[Silicon Mind](https://silicon-mind.com/job/full-stack-engineers-internship/)|Alexandria|Open - Full Stack |
+|[Silicon Mind](https://silicon-mind.com/job/devops-engineer/)|Alexandria|Open - DevOps|
+|[Silicon Mind](https://silicon-mind.com/job/network-engineer-internship/)|Alexandria|Open - Network|
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Cairo/Hybrid | Open - python django backend |
@@ -80,6 +85,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[Vodafone](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2023/937096201) | Hybrid (cairo/giza) | Open - Vodanation summer program for most fields |
+|[Xlab](https://xlab-group.com/apply/)|-|Open|
+|[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
 
 ## Closed Internships :card_file_box:
 
