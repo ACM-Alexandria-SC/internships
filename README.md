@@ -52,7 +52,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
-|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)|Cairo|Open|
+|[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
