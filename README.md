@@ -41,6 +41,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
+|[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | Open - General IT and Technology |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
 |[Eventum Solutions Software Internship](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open - Deadline: May 31th |
