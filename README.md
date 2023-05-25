@@ -56,6 +56,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
 |[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
+|[KLivvr Software Engineer](https://www.linkedin.com/posts/klivvr_klivvrinternshipprogram-fintechcareer-careeropportunities-activity-7066797845093191680-Ut8E?utm_source=share&utm_medium=member_desktop)| Cairo/Hybrid | Open - SW Eng: Deadline 31st May |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
