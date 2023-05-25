@@ -65,6 +65,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
 |[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/)|Alexandria|Open - Summer Internship Program|
+|[Rabbit](https://rabbitmart.breezy.hr/p/fa20528c676f-summer-2023-internship-program)|Not Mentioned|Open|
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
@@ -73,6 +74,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Silicon Mind](https://silicon-mind.com/job/network-engineer-internship/)|Alexandria|Open - Network|
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
+|[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Frontend and Backend |
 |[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Cairo/Hybrid | Open - python django backend |
 |[Synapse frontend intern](https://synapseanalytics.recruitee.com/o/frontend-engineering-internship-cairo)| Cairo/Hybrid | Open - React.js |
 |[Synapse mobile intern](https://synapseanalytics.recruitee.com/o/react-native-mobile-development-internship)| Cairo/Hybrid | Open - React Native |
