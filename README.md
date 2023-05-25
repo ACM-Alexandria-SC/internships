@@ -30,7 +30,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | NA | Absolutely no information on the their post/website|
+|[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | NA | no info |
 |[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern - (Junior Level / Fresh Grad)|
 |[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern - (Junior Level / Fresh Grad)|
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
