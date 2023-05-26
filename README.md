@@ -30,6 +30,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | NA | no info |
 |[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern - (Junior Level / Fresh Grad)|
 |[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern - (Junior Level / Fresh Grad)|
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
@@ -39,6 +40,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
+|[Dsquares](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | Open - .Net Dev, Testing, Data Analyst, ML |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
 |[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | Open - General IT and Technology |
@@ -54,6 +56,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
 |[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
+|[KLivvr Software Engineer](https://www.linkedin.com/posts/klivvr_klivvrinternshipprogram-fintechcareer-careeropportunities-activity-7066797845093191680-Ut8E?utm_source=share&utm_medium=member_desktop)| Cairo/Hybrid | Open - SW Eng: Deadline 31st May |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
