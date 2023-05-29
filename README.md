@@ -61,8 +61,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
-|[P&G Software Intern](https://www.pgcareers.com/job/cairo/it-project-manager-summer23-internship-undergrads/936/47721630896) | Cairo | Open - Application integrations, Data analysis |
-|[P&G/PwC Cyber security team](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=416677WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | N/A | Open - Cyber security, SOC intern |
 |[Raisa Data Science](https://raisaegypt.recruitee.com/o/2023-internship-data-science-and-engineering) | Cairo/Hybrid | Open - Paid - Data Science and Engineering intern |
 |[Raisa Software Development](https://raisaegypt.recruitee.com/o/2023-internship-software-development) | Cairo/Hybrid | Open - Paid - Backend and Frontend intern |
 |[Rubikal](https://apply.workable.com/rubikal/j/A93AADEC1C/)|Alexandria|Open - Summer Internship Program|
@@ -109,6 +107,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
 |[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed |
+|[P&G Software Intern](https://www.pgcareers.com/) | Cairo | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 ## Collaborators
 We love our collaborators 💜💜
