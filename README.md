@@ -70,15 +70,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Frontend and Backend |
-|[Synapse backend intern](https://synapseanalytics.recruitee.com/o/backend-engineering-internship)| Cairo/Hybrid | Open - python django backend |
-|[Synapse frontend intern](https://synapseanalytics.recruitee.com/o/frontend-engineering-internship-cairo)| Cairo/Hybrid | Open - React.js |
-|[Synapse mobile intern](https://synapseanalytics.recruitee.com/o/react-native-mobile-development-internship)| Cairo/Hybrid | Open - React Native |
-|[Synapse UI/UX intern](https://synapseanalytics.recruitee.com/o/ui-ux-internship)| Cairo/Hybrid | Open - Figma |
-|[Synapse DevOps intern](https://synapseanalytics.recruitee.com/o/devops-engineering-internship)| Cairo/Hybrid | Open - Docker, python, linux, git |
-|[Synapse ML/CV intern](https://synapseanalytics.recruitee.com/o/machine-learning-engineering-internship-computer-vision)| Cairo/Hybrid | Open - Python, SQL, TF2/Pytorch, git|
-|[Synapse data science intern](https://synapseanalytics.recruitee.com/o/data-science-internship)| Cairo/Hybrid | Open - Python/R & Database |
-|[Synapse data science consultant intern](https://synapseanalytics.recruitee.com/o/data-science-consultant-internship)| Cairo | Open - MS office / excel |
-|[Synapse product owner intern](https://synapseanalytics.recruitee.com/o/product-owner-internship)| Cairo | Open - Agile, communication skills, management skills|
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Project by Enozom](https://enozom.com/theproject/home) | ITI Alexandria | Open - Bootcamp in Web Development |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
@@ -107,6 +98,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
 |[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/)|Alexandria| Closed |
+|[Synapse](https://www.synapse-analytics.io/)| Cairo/Hybrid | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 ## Collaborators
 We love our collaborators 💜💜
