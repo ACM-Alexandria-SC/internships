@@ -60,6 +60,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
 |[Procore](https://careers.procore.com/jobs/software-engineer-intern-cairo-c-egypt?source=linkedin_limited_listing&utm_source=linkedin_limited_listing#apply) | Cairo | Open - NA / Software and Web |
