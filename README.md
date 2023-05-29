@@ -108,8 +108,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
+|[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
-|[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed|
 ## Collaborators
 We love our collaborators 💜💜
 
