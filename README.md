@@ -61,7 +61,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
-|[Rabbit](https://rabbitmart.breezy.hr/p/fa20528c676f-summer-2023-internship-program)|Not Mentioned|Open|
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
@@ -105,6 +104,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
 |[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed |
 |[P&G Software Intern](https://www.pgcareers.com/) | Cairo | Closed |
+|[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
 |[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/)|Alexandria| Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
