@@ -31,8 +31,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | NA |Open -  Deadline: 31st May |
-|[Alexandria For Programming](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Backend Intern - (Junior Level / Fresh Grad)|
-|[Alexandria For Programming](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern - (Junior Level / Fresh Grad)|
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
@@ -79,6 +77,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | Closed |
 |[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
