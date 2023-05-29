@@ -43,7 +43,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Dsquares](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | Open - .Net Dev, Testing, Data Analyst, ML |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |
-|[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | Open - General IT and Technology |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
 |[Eventum Solutions Software Internship](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open - Deadline: May 31th |
@@ -83,6 +82,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
+|[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
 |[Hash Studio](http://www.hashstudio.com/) | Monufia  | Closed |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
