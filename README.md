@@ -61,7 +61,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
-|[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
 |[Procore](https://careers.procore.com/jobs/software-engineer-intern-cairo-c-egypt?source=linkedin_limited_listing&utm_source=linkedin_limited_listing#apply) | Cairo | Open - NA / Software and Web |
 |[P&G Software Intern](https://www.pgcareers.com/job/cairo/it-project-manager-summer23-internship-undergrads/936/47721630896) | Cairo | Open - Application integrations, Data analysis |
 |[P&G/PwC Cyber security team](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=416677WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | N/A | Open - Cyber security, SOC intern |
@@ -109,6 +108,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Closed - Frontend Intern |
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
+|[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 ## Collaborators
 We love our collaborators 💜💜
