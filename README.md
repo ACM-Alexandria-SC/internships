@@ -49,7 +49,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Eventum Solutions Software Internship](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open - Deadline: May 31th |
 |[Eventum Solutions Software Testing Internship](https://odoo.eventumsolutions.com/jobs/detail/software-testing-summer-internship-501) | Alexandria | Open |
 |[Eventum Solutions Data Science Internship](https://odoo.eventumsolutions.com/jobs/detail/data-science-summer-internship-502) | Alexandria | Open - Deadline: June 10th |
-|[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open |
+|[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open - SW eng, DevOps,  QC eng |
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open |
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
 |[Hash Studio](https://docs.google.com/forms/d/e/1FAIpQLSf6j83-hFvMfVBGBmPWMQ7bs_e8Y27ixP83DHfoA_OWUNeP6g/viewform?fbclid=IwAR0TdUiZdxuVlN-CvV3Rzm1YI8G_-e0JZLFwCNoZ33pbJGgKT5B2subQEZ8) | Monufia  | Open - Multiple interns |
@@ -60,6 +60,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pharos Solutions](https://forms.gle/humeeGqjZ7sUm6aD9) | Not Mentioned | Open - Software Development and Software Testing |
 |[Procore](https://careers.procore.com/jobs/software-engineer-intern-cairo-c-egypt?source=linkedin_limited_listing&utm_source=linkedin_limited_listing#apply) | Cairo | Open - NA / Software and Web |
