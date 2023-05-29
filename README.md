@@ -73,7 +73,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Project by Enozom](https://enozom.com/theproject/home) | ITI Alexandria | Open - Bootcamp in Web Development |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[Vodafone](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2023/937096201) | Hybrid (cairo/giza) | Open - Vodanation summer program for most fields |
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
 |[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
 
@@ -100,6 +99,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Rubikal](https://apply.workable.com/rubikal/)|Alexandria| Closed |
 |[Synapse](https://www.synapse-analytics.io/)| Cairo/Hybrid | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
+|[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Closed |
 ## Collaborators
 We love our collaborators 💜💜
 
