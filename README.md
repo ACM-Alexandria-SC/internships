@@ -50,6 +50,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open |
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
 |[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
+|[Instabug](https://instabug.bamboohr.com/careers/29?source=aWQ9MTk%3D)|Cairo| Open - Backend intern - Deadline: 6th June|
+|[Instabug](https://instabug.bamboohr.com/careers/30?source=aWQ9MTk%3D)|Cairo| Open - Infrastructure intern - Deadline: 6th June|
 |[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[KLivvr Software Engineer](https://www.linkedin.com/posts/klivvr_klivvrinternshipprogram-fintechcareer-careeropportunities-activity-7066797845093191680-Ut8E?utm_source=share&utm_medium=member_desktop)| Cairo/Hybrid | Open - SW Eng: Deadline 31st May |
