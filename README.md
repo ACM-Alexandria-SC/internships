@@ -75,13 +75,12 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
 |[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
-
+|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Open |
 ## Closed Internships :card_file_box:
 
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | Closed |
-|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
