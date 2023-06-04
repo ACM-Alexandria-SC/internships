@@ -71,6 +71,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
 |[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Frontend and Backend - Deadline: 15th June |
+|[Sylnder](https://jobs.lever.co/sylndr/d33f10ad-c614-4749-86ea-278d701955d0) | Cairo | Open - Next.js intern |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Project by Enozom](https://enozom.com/theproject/home) | ITI Alexandria | Open - Bootcamp in Web Development - Deadline: 30th June |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
