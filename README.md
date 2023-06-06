@@ -45,9 +45,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Not Yet|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 |[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
-|[Eventum Solutions Software Internship](https://odoo.eventumsolutions.com/jobs/detail/software-summer-internship-473) | Alexandria | Open - Deadline: May 31th |
-|[Eventum Solutions Software Testing Internship](https://odoo.eventumsolutions.com/jobs/detail/software-testing-summer-internship-501) | Alexandria | Open |
-|[Eventum Solutions Data Science Internship](https://odoo.eventumsolutions.com/jobs/detail/data-science-summer-internship-502) | Alexandria | Open - Deadline: June 10th |
 |[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open - SW eng, DevOps,  QC eng |
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open |
 |[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
@@ -86,6 +83,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
+|[Eventum Solutions](http://eventumsolutions.com/careers/)| Alexandria | Closed |
 |[Hash Studio](http://www.hashstudio.com/) | Monufia  | Closed |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
