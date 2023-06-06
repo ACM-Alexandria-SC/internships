@@ -52,9 +52,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Instabug](https://instabug.bamboohr.com/careers/30?source=aWQ9MTk%3D)|Cairo| Open - Infrastructure intern - Deadline: 6th June|
 |[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
-|[KLivvr Software Engineer](https://www.linkedin.com/posts/klivvr_klivvrinternshipprogram-fintechcareer-careeropportunities-activity-7066797845093191680-Ut8E?utm_source=share&utm_medium=member_desktop)| Cairo/Hybrid | Open - SW Eng: Deadline 31st May |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
-|[Master Micro](https://www.linkedin.com/posts/omranh_i-am-looking-for-smart-and-passionate-students-activity-7064303656535302145-Yeg3/?utm_source=share&utm_medium=member_android) | Remote | Open - Software Engineering Intern - Deadline: May 30th  |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
@@ -88,6 +86,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
 |[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
+|[KLivvr Software Engineer](https://www.linkedin.com/company/klivvr/)| Cairo/Hybrid | Closed |
+|[Master Micro](https://www.linkedin.com/company/master-micro/) | Remote | Closed |
 |[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Closed - Backend Intern |
 |[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Closed - Frontend Intern |
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
