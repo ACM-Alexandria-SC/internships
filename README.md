@@ -82,6 +82,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Eventum Solutions](http://eventumsolutions.com/careers/)| Alexandria | Closed |
 |[Hash Studio](http://www.hashstudio.com/) | Monufia  | Closed |
 |[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
+|[Instabug](https://www.instabug.com/careers)|Cairo| Closed|
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
 |[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
 |[KLivvr Software Engineer](https://www.linkedin.com/company/klivvr/)| Cairo/Hybrid | Closed |
