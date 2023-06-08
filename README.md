@@ -52,11 +52,11 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
+|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo|Open - Data Analyst|
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
-|[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Open- <b>Paid Intern</b> -Frontend Intern |
-|[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Open- <b>Paid Intern</b> -Backend Intern |
-|[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Open- <b>Paid Intern</b> -MERN Full Stack Intern |
+|[Pinerium](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria|Open - Software Engineering|
+|[ProCrew](https://www.procrew.pro/job/internship-backend-web-developer-node-js-nest-js)|Alexandria|Open - Software Engineering|
 |[Silicon Mind](https://silicon-mind.com/job/full-stack-engineers-internship/)|Alexandria|Open - Full Stack |
 |[Silicon Mind](https://silicon-mind.com/job/devops-engineer/)|Alexandria|Open - DevOps|
 |[Silicon Mind](https://silicon-mind.com/job/network-engineer-internship/)|Alexandria|Open - Network|
@@ -97,6 +97,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
 |[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
 |[Rubikal](https://apply.workable.com/rubikal/)|Alexandria| Closed |
+|[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Closed - Frontend Intern |
+|[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Closed - Backend Intern |
+|[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Closed- MERN Full Stack Intern |
 |[Synapse](https://www.synapse-analytics.io/)| Cairo/Hybrid | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 |[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Closed |
