@@ -93,7 +93,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
-|[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed |
 |[P&G Software Intern](https://www.pgcareers.com/) | Cairo | Closed |
 |[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
 |[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
