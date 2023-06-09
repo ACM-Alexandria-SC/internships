@@ -56,6 +56,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pinerium](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria|Open - Software Engineering|
+|[ProCore](https://careers.procore.com/jobs/2098d71e-543b-41b4-8524-f8a34365463f)|Cairo|Open - Software Engineering|
 |[ProCrew](https://www.procrew.pro/job/internship-backend-web-developer-node-js-nest-js)|Alexandria|Open - Software Engineering|
 |[Silicon Mind](https://silicon-mind.com/job/full-stack-engineers-internship/)|Alexandria|Open - Full Stack |
 |[Silicon Mind](https://silicon-mind.com/job/devops-engineer/)|Alexandria|Open - DevOps|
@@ -92,7 +93,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
 |[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
 |[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
-|[Procore](https://careers.procore.com/jobs/search) | Cairo | Closed |
 |[P&G Software Intern](https://www.pgcareers.com/) | Cairo | Closed |
 |[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
 |[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
