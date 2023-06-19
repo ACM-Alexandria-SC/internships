@@ -53,7 +53,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
-|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo|Open - Data Analyst|
+|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Open - Data Analyst|
+|[Optioma CyberSec](https://www.linkedin.com/posts/optimaps_summer-internship-opportunity-atoptima-professional-activity-7073591967208620032-JGlG?utm_source=share&utm_medium=member_desktop)|Cairo| Open - Cyber security|
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pinerium](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria|Open - Software Engineering|
