@@ -35,6 +35,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Ayamedica](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Paid, ios and android dev. |
 |[Bosta Android intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo/Hybrid | Open - Android **Paid** intern|
 |[Bosta SW testing intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo/Hybrid | Open - SW Testing **Paid** intern|
+|[Bosta Backend intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo/Hybrid | Open - Backend .JS **Paid** intern|
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
