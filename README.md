@@ -33,7 +33,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Open |
 |[Ayamedica](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Paid, ios and android dev. |
-|[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
@@ -82,6 +81,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |---|---|-------------|--|
 |[Advansys](https://www.linkedin.com/company/advansys-esc/) | NA | Closed|
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | Closed |
+|[Blink22](https://blink22.com/) | Alexandria | Not open |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
