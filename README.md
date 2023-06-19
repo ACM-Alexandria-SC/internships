@@ -73,6 +73,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
 |[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
 |[Zinad Cybersec](https://zinad.net/Cybersecurity-2023.html)| Giza | Open - cyber security intern|
+|[Zinad SW](https://zinad.net/Software-2023.html)| Giza | Open - SW intern|
 
 ## Closed Internships :card_file_box:
 
