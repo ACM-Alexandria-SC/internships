@@ -33,7 +33,10 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
 |[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Open |
 |[Ayamedica](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Paid, ios and android dev. |
-|[Blink22](https://blink22.com/) | Alexandria | Not Yet |
+|[Bosta Android intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo/Hybrid | Open - Android **Paid** intern|
+|[Bosta SW testing intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo/Hybrid | Open - SW Testing **Paid** intern|
+|[Bosta Backend intern](https://jobs.lever.co/Bosta/f66928b1-1cd0-47fb-8b05-d8ca69f9e665)| Cairo/Hybrid | Open - Backend .JS **Paid** intern|
+|[Bosta Infrastructure intern](https://jobs.lever.co/Bosta/457e1b3f-e93c-41be-b1cf-b78878e081bd)| Cairo/Hybrid | Open - Infrastructure **Paid** intern|
 |[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
 |[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
 |[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
@@ -53,7 +56,8 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
-|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo|Open - Data Analyst|
+|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Open - Data Analyst|
+|[Optioma CyberSec](https://www.linkedin.com/posts/optimaps_summer-internship-opportunity-atoptima-professional-activity-7073591967208620032-JGlG?utm_source=share&utm_medium=member_desktop)|Cairo| Open - Cyber security|
 |[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
 |[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
 |[Pinerium](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria|Open - Software Engineering|
@@ -71,6 +75,9 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
 |[Xlab](https://xlab-group.com/apply/)|-|Open|
 |[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
+|[Zinad Cybersec](https://zinad.net/Cybersecurity-2023.html)| Giza | Open - cyber security intern|
+|[Zinad SOC](https://zinad.net/Cybersecurity-2023.html)| Giza | Open - SOC & IPsec intern|
+|[Zinad SW](https://zinad.net/Software-2023.html)| Giza | Open - SW intern|
 
 ## Closed Internships :card_file_box:
 
@@ -78,6 +85,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |---|---|-------------|--|
 |[Advansys](https://www.linkedin.com/company/advansys-esc/) | NA | Closed|
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | Closed |
+|[Blink22](https://blink22.com/) | Alexandria | Not open |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
 |[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
