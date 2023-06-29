@@ -43,7 +43,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
 |[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
 |[Dell Summer Program](https://www.linkedin.com/posts/fadynabilyacoub_students-delltech-mysummerwithdell-activity-7069666686722879488-VjJi?utm_source=share&utm_medium=member_android)|-| Open - Deadline: 22th June|
-|[Dsquares](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | Open - .Net Dev, Testing, Data Analyst, ML - Deadline: 15th June  |
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
 |[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Not Yet|
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
@@ -68,7 +67,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Silicon Mind](https://silicon-mind.com/job/network-engineer-internship/)|Alexandria|Open - Network|
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
-|[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Frontend and Backend - Deadline: 15th June |
 |[Sylnder](https://jobs.lever.co/sylndr/d33f10ad-c614-4749-86ea-278d701955d0) | Cairo | Open - Next.js intern |
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
 |[The Project by Enozom](https://enozom.com/theproject/home) | ITI Alexandria | Open - Bootcamp in Web Development - Deadline: 30th June |
@@ -88,6 +86,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Blink22](https://blink22.com/) | Alexandria | Not open |
 |[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
+|[Dsquares](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | Closed |
 |[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
 |[Eventum Solutions](http://eventumsolutions.com/careers/)| Alexandria | Closed |
 |[Hash Studio](http://www.hashstudio.com/) | Monufia  | Closed |
@@ -109,6 +108,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Closed - Frontend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Closed - Backend Intern |
 |[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Closed- MERN Full Stack Intern |
+|[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Closed |
 |[Synapse](https://www.synapse-analytics.io/)| Cairo/Hybrid | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
 |[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Closed |
