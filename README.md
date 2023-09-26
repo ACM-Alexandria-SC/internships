@@ -94,7 +94,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Instabug](https://www.instabug.com/careers)|Cairo| Closed|
 |[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
 |[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
-|[Keploy DevRel Cohort 4.0](https://www.linkedin.com/company/keploy/)| Remote | Closed |
+|[Keploy DevRel Cohort 4.0](https://devrel.keploy.io/)| Remote | Closed |
 |[KLivvr Software Engineer](https://www.linkedin.com/company/klivvr/)| Cairo/Hybrid | Closed |
 |[Master Micro](https://www.linkedin.com/company/master-micro/) | Remote | Closed |
 |[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Closed - Backend Intern |
