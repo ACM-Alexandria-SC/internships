@@ -5,7 +5,6 @@
   - [Tips for the interview](#tips-for-the-interview)
   - [Stack Info](#stack-info)
   - [Internships :necktie:](#internships-necktie)
-  - [Closed Internships :card\_file\_box:](#closed-internships-card_file_box)
   - [Collaborators](#collaborators)
 
 ## Contribution
