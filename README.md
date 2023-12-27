@@ -33,6 +33,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Zinad](https://zinad.net/internship-program.html) | Giza | CyberSec, Software Development and Project Management | Open |
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Jumia Interns](https://boards.eu.greenhouse.io/jumia) | Cairo | Frontend, Backend and Data Science | Open (Data Science) |
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Synapse](https://www.synapse-analytics.io/) | Cairo/Hybrid | N/A | Closed |
 |[Advansys](https://www.advansys-esc.com/careers/job-opening/) | N/A | Software Developer | Closed |
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | React, Flutter and Web Development | Closed |
@@ -44,7 +45,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codescalers Egypt](https://www.codescalers-egypt.com/careers) | Cairo | Software Development and Software Testing | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Software Engineer | Closed |
 |[Dell](http://bitly.ws/EETR) | Cairo | Multiple Interns | Closed |
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Dsquares](https://dsquares.recruitee.com/) | Cairo | Software Engineer | Closed |
 |[El-Sewedy Electric](https://elsewedyelectric.com/en/careers/) | Cairo | N/A | Closed |
 |[Enozom](https://enozom.com/Company/Join_Us/) | Alexandria | Multiple Interns | Closed |
