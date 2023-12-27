@@ -1,0 +1,26 @@
+name: Sort README
+on:
+  push:
+    branches:
+      - main
+jobs:
+  sort-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run sort.sh script
+      run: |
+        ./sort.sh
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        if ! git diff --exit-code; then
+            git add README.md
+            git commit -am "GH Action Files added $(date)"
+            git push -f origin main
+        fi
