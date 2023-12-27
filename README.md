@@ -34,6 +34,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Jumia Interns](https://boards.eu.greenhouse.io/jumia) | Cairo | Frontend, Backend and Data Science | Open (Data Science) |
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
+|[Xlab](https://xlab-group.com/apply/) | N/A | N/A | Open |
 |[Synapse](https://www.synapse-analytics.io/) | Cairo/Hybrid | N/A | Closed |
 |[Advansys](https://www.advansys-esc.com/careers/job-opening/) | N/A | Software Developer | Closed |
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | React, Flutter and Web Development | Closed |
@@ -85,7 +86,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | **Unpaid Intern** | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Multiple Interns | Closed |
 |[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Multiple Interns | Closed |
-|[Xlab](https://xlab-group.com/apply/) | N/A | N/A | Open |
 ## Collaborators
 We love our collaborators 💜💜
 
