@@ -2,7 +2,7 @@ name: Sort README
 on:
   push:
     branches:
-      - main
+      - testing
 jobs:
   sort-readme:
     runs-on: ubuntu-latest
@@ -22,5 +22,5 @@ jobs:
         if ! git diff --exit-code; then
             git add README.md
             git commit -am "GH Action Files added $(date)"
-            git push -f origin main
+            git push -f origin testing
         fi
