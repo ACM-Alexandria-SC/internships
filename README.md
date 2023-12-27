@@ -1,14 +1,13 @@
 # Summer 2023 Tech Internships for Egyptian Students 👩‍💻
 
 ## Contents
-- [Summer 2023 Tech Internships for Egyptian Students 👩‍💻](#summer-2023-tech-internships-for-egyptian-students-)
-  - [Contents](#contents)
   - [Contribution](#contribution)
   - [Tips for the interview](#tips-for-the-interview)
   - [Stack Info](#stack-info)
   - [Internships :necktie:](#internships-necktie)
   - [Closed Internships :card\_file\_box:](#closed-internships-card_file_box)
   - [Collaborators](#collaborators)
+
 ## Contribution
 If you know any good internship related to the tech field (choose one) :
 - Make a Pull Request
@@ -19,99 +18,73 @@ Some of the internships may require a technical interview
 
 - Check this awesome [***Tech Interview Handbook***](https://github.com/yangshun/tech-interview-handbook) 📖
 
-
 ## Stack Info
 Stack Info allows you to explore and find tech stacks used by startups and corporates in Egypt.
 
 - Check this awesome [***Stack Info***](http://www.stackinfo.me/)
 
-
 ## Internships :necktie:
-
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | Open |
-|[Ayamedica](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Open - Paid, ios and android dev. |
-|[Corporatica Machine Learning internship](https://www.linkedin.com/posts/corporatica_corporatica-machineabrlearningabrinterns-activity-7016730755129073664-nYZE?utm_source=share&utm_medium=member_desktop) | Cairo | Open |
-|[Corporatica software internship](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|
-|[Codescalers Egypt](https://www.linkedin.com/posts/codescalers-egypt_internship-intern-internshipabropportunity-activity-7063797387210690560-dASD?utm_source=share&utm_medium=member_desktop) | Cairo |Open - Software Development and Software Testing|
-|[Data Science Hub](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | Not Mentioned | Open - Data Science Research Opportunity |
-|[Dell](http://bitly.ws/EETR) | Cairo | Open - Multiple Interns |
-|[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |
-|[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Not Yet|
-|[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
-|[Eva Pharma](https://www.linkedin.com/posts/eva-pharma_eti-application-activity-7063509210487042048-f464?utm_source=share&utm_medium=member_desktop) | Not Mentioned | Open - Multiple Interns|
-|[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Alexandria | Open - SW eng, DevOps,  QC eng |
-|[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL)| - | Open |
-|[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Open - Multiple Interns|
-|[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | Open |
-|[Incorta](https://www.incorta.com/careers/job-detail?lv_jid=5a0ca84f-7afc-45fe-bf77-1b62e8e24c31) | Cairo | Open |
-|[Jumia Backend Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu)| Cairo | Open - Java/PHP/GO, MySQL, GIT, RabbitMQ|
-|[Jumia Front end Intern](https://boards.eu.greenhouse.io/jumia/jobs/4136917101)| Cairo | Open - React, vue or angular, Webpack/Gulp.js, SASS, GIT|
-|[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |
-|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |
-|[Naqla](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Open - Data Analyst|
-|[Optioma CyberSec](https://www.linkedin.com/posts/optimaps_summer-internship-opportunity-atoptima-professional-activity-7073591967208620032-JGlG?utm_source=share&utm_medium=member_desktop)|Cairo| Open - Cyber security|
-|[Paymob](https://www.linkedin.com/posts/paymobcompany_finance-ecommerce-legal-activity-7084893585984135168-peR-?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)|Cairo|Open - Backend(pyhon) - Frontend -ios an Andoroid - pentesting <b>deadline 15th July</b>|
-|[Paysky](https://paysky.io/jobs/internships-across-functions/)| NA | Open - Paid - general Software Engineering |
-|[Pencil Spaces](https://form.jotform.com/231306275082551)|Remote|Open - Software Engineering|
-|[Pinerium](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria|Open - Software Engineering|
-|[ProCore](https://careers.procore.com/jobs/2098d71e-543b-41b4-8524-f8a34365463f)|Cairo|Open - Software Engineering|
-|[ProCrew](https://www.procrew.pro/job/internship-backend-web-developer-node-js-nest-js)|Alexandria|Open - Software Engineering|
-|[Silicon Mind](https://silicon-mind.com/job/full-stack-engineers-internship/)|Alexandria|Open - Full Stack |
-|[Silicon Mind](https://silicon-mind.com/job/devops-engineer/)|Alexandria|Open - DevOps|
-|[Silicon Mind](https://silicon-mind.com/job/network-engineer-internship/)|Alexandria|Open - Network|
-|[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |
-|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | Open- <b>Unpaid Intern</b> |
-|[Sylnder](https://jobs.lever.co/sylndr/d33f10ad-c614-4749-86ea-278d701955d0) | Cairo | Open - Next.js intern |
-|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Multiple Interns |
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b>Unpaid Intern</b> |
-|[Xlab](https://xlab-group.com/apply/)|-|Open|
-|[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform)|-|Open|
-|[Zinad Cybersec](https://zinad.net/Cybersecurity-2023.html)| Giza | Open - cyber security intern|
-|[Zinad SOC](https://zinad.net/Cybersecurity-2023.html)| Giza | Open - SOC & IPsec intern|
-|[Zinad SW](https://zinad.net/Software-2023.html)| Giza | Open - SW intern|
-
-## Closed Internships :card_file_box:
-
-| Name  |  Location |  Notes | status |
-|---|---|-------------|--|
-|[Advansys](https://www.linkedin.com/company/advansys-esc/) | NA | Closed|
-|[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | Closed |
-|[Amazon](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Closed |
-|[Bosta Android intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo/Hybrid | Closed - Android **Paid** intern|
-|[Bosta SW testing intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo/Hybrid | Closed - SW Testing **Paid** intern|
-|[Bosta Backend intern](https://jobs.lever.co/Bosta/f66928b1-1cd0-47fb-8b05-d8ca69f9e665)| Cairo/Hybrid | Closed - Backend .JS **Paid** intern|
-|[Bosta Infrastructure intern](https://jobs.lever.co/Bosta/457e1b3f-e93c-41be-b1cf-b78878e081bd)| Cairo/Hybrid | Closed - Infrastructure **Paid** intern|
-|[Blink22](https://blink22.com/) | Alexandria | Not open |
-|[Codeaza Technologies](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/) | Remote | Closed |
-|[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Closed |
-|[Dsquares](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | Closed |
-|[El-Sewedy Electric](https://www.linkedin.com/company/elsewedyelectric/) | Cairo | Closed |
-|[Eventum Solutions](http://eventumsolutions.com/careers/)| Alexandria | Closed |
-|[Hash Studio](http://www.hashstudio.com/) | Monufia  | Closed |
-|[Inova](https://inovaeg.com/jobs/) | Alexandria | Closed |
-|[Instabug](https://www.instabug.com/careers)|Cairo| Closed|
-|[ITWORX](https://lde.tbe.taleo.net/lde02/ats/careers/v2/viewRequisition?org=ITWO&cws=47&rid=1874) | Cairo | Closed - .NET & React |
-|[Jumia](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Cairo | Closed |
-|[KLivvr Software Engineer](https://www.linkedin.com/company/klivvr/)| Cairo/Hybrid | Closed |
-|[Master Micro](https://www.linkedin.com/company/master-micro/) | Remote | Closed |
-|[MaxAB](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | Closed - Backend Intern |
-|[MaxAB](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | Closed - Frontend Intern |
-|[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | Closed |
-|[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | Closed |
-|[Pharos Solutions](https://www.pharos-solutions.de/) | Not Mentioned | Closed |
-|[P&G Software Intern](https://www.pgcareers.com/) | Cairo | Closed |
-|[Rabbit](https://rabbitmart.breezy.hr/)|Not Mentioned|Closed|
-|[Raisa Energy](https://www.raisa.com/) | Cairo | Closed |
-|[Rubikal](https://apply.workable.com/rubikal/)|Alexandria| Closed |
-|[Seuqel Solutions](https://wuzzuf.net/internship/IqkUjm26ktyu-Front-End-Developer---InternshipRemote-Seuqel-Solutions-Cairo-Egypt?o=5&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Closed - Frontend Intern |
-|[Seuqel Solutions](https://wuzzuf.net/internship/jKuGfqbQLV8X-Node-JS---Backend-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=dbp&t=rj&o=1&a=S1%7CC%7CM%7CV2)| Cairo | Closed - Backend Intern |
-|[Seuqel Solutions](https://wuzzuf.net/internship/zhrsQuiWUeuB-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?o=11&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264)| Cairo | Closed- MERN Full Stack Intern |
-|[Social Nuts](https://www.linkedin.com/posts/social-nuts-digital-marketing_free-for-the-summer-how-about-a-fun-internship-activity-7066473317771190272-Y7LQ?utm_source=share&utm_medium=member_desktop)| Cairo | Closed |
-|[Synapse](https://www.synapse-analytics.io/)| Cairo/Hybrid | Closed |
-|[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Closed |
-|[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Closed |
+|[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Worldwide | **Paid Intern** - Full Stack Intern | Open |
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | **Paid Intern** - Open Source Projects | Open |
+|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform) | Cairo | <b>Unpaid Intern</b> - N/A | Open |
+|[Xlab](https://xlab-group.com/apply/) | N/A | N/A | Open |
+|[Yomicepa](https://docs.google.com/forms/d/e/1FAIpQLSeBs4g6wn1E7U1zMkoR95rB8MXvGKnHsecznbVu_lTGqeN64Q/viewform) | N/A | N/A | Open |
+|[Zinad](https://zinad.net/internship-program.html) | Giza | CyberSec, Software Development and Project Management | Open |
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
+|[Jumia Interns](https://boards.eu.greenhouse.io/jumia) | Cairo | Frontend, Backend and Data Science | Open (Data Science) |
+|[Synapse](https://www.synapse-analytics.io/) | Cairo/Hybrid | N/A | Closed |
+|[Advansys](https://www.advansys-esc.com/careers/job-opening/) | N/A | Software Developer | Closed |
+|[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | React, Flutter and Web Development | Closed |
+|[Amazon](https://www.amazon.jobs/en/search?base_query=internship&country=EG) | Cairo | Software Engineer | Closed |
+|[Ayamedica](https://www.ayamedica.com/careers) | Cairo | Paid, IOS and Android. | Closed |
+|[Blink22](https://www.blink22.com/careers/) | Alexandria | Software Engineer | Closed |
+|[Bosta Interns](https://jobs.lever.co/Bosta/?team=Engineering) | Cairo/Hybrid | Android and Software Engineer | Closed |
+|[Codeaza Technologies](https://www.linkedin.com/company/codeaza/jobs/) | Remote | Web Development and ML | Closed |
+|[Codescalers Egypt](https://www.codescalers-egypt.com/careers) | Cairo | Software Development and Software Testing | Closed |
+|[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Software Engineer | Closed |
+|[Dell](http://bitly.ws/EETR) | Cairo | Multiple Interns | Closed |
+|[Dsquares](https://dsquares.recruitee.com/) | Cairo | Software Engineer | Closed |
+|[El-Sewedy Electric](https://elsewedyelectric.com/en/careers/) | Cairo | N/A | Closed |
+|[Enozom](https://enozom.com/Company/Join_Us/) | Alexandria | Multiple Interns | Closed |
+|[E-num](https://www.linkedin.com/company/e-num/jobs/) | Remote | Full Stack | Closed |
+|[espace](https://espace.com.eg/blog/category/intenship/) | Alexandria | SW eng, DevOps,  QC eng | Closed |
+|[Eva Pharma](https://www.linkedin.com/company/eva-pharma/posts/?feedView=all) | Not Mentioned | Multiple Interns | Closed |
+|[Eventum Solutions](http://eventumsolutions.com/careers/) | Alexandria | Multiple Interns | Closed |
+|[Giza Systems](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2023-software-development-center-4688135/) | Cairo | Multiple Interns | Closed |
+|[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&employment_type=INTERN&jex=ENTRY_LEVEL) | Remote and onsite | Software Engineer | Closed |
+|[Hash Studio](http://www.hashstudio.com/) | Monufia | N/A | Closed |
+|[Incorta](https://www.incorta.com/careers#positions) | Cairo | N/A | Closed |
+|[Innuva](https://www.linkedin.com/posts/innuva_innuva-innuvians-university-activity-7062005481417957376-flR2?utm_source=share&utm_medium=member_android) | Alexandria | N/A | Closed |
+|[Inova](https://inovaeg.com/jobs/) | Alexandria | Odoo Implementer | Closed |
+|[Instabug](https://www.instabug.com/careers) | Cairo | Multiple Interns | Closed |
+|[ITWORX](https://www.itworx.com/jobs/) | Cairo | .NET & React | Closed |
+|[KLivvr Software Engineer](https://www.linkedin.com/company/klivvr/jobs/) | Cairo/Hybrid | N/A | Closed |
+|[Master Micro](https://www.linkedin.com/company/master-micro/) | Remote | N/A | Closed |
+|[MaxAB](https://maxab.breezy.hr/) | Cairo | Frontend and Backend Intern | Closed |
+|[Microsoft Egypt](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | Cairo | N/A | Closed |
+|[Money Fellows](https://www.linkedin.com/company/moneyfellows/jobs/) | Cairo | N/A | Closed |
+|[Naqla](https://naqla.zohorecruit.com/jobs/Careers) | Cairo | Data Analyst | Closed |
+|[Optioma CyberSec](https://www.linkedin.com/company/optimaps/posts/?feedView=all) | Cairo | Cyber security | Closed |
+|[Paymob](https://www.linkedin.com/company/paymobcompany/posts/?feedView=all) | Cairo | Multiple Interns | Closed |
+|[Paysky](https://paysky.io/jobs/internships-across-functions/) | NA | Paid - general Software Engineering | Closed |
+|[Pencil Spaces](https://www.pencilspaces.com/careers/engineering) | Remote | Software Engineering | Closed |
+|[P&G Software Intern](https://www.pgcareers.com/mea/en/engineering#job-search-bar) | Cairo | N/A | Closed |
+|[Pharos Solutions](https://www.pharos-solutions.de/careers/) | Not Mentioned | N/A | Closed |
+|[Pinerium](https://careers.pinerium.com/jobs/Internships) | Alexandria | Software Engineering | Closed |
+|[ProCore](https://careers.procore.com/jobs/search?page=1&country_codes%5B%5D=eg&query=intern) | Cairo | Software Engineering | Closed |
+|[ProCrew](https://www.procrew.pro/careers/) | Alexandria | Software Engineering | Closed |
+|[Rabbit](https://rabbitmart.breezy.hr/) | Not Mentioned | N/A | Closed |
+|[Raisa Energy](https://www.raisa.com/) | Cairo | N/A | Closed |
+|[Rubikal](https://apply.workable.com/rubikal/#jobs) | Alexandria | N/A | Closed |
+|[Seuqel Solutions](https://wuzzuf.net/jobs/careers/Care-Dental-Egypt-27404) | Remote | Multiple Interns | Closed |
+|[Silicon Mind](https://silicon-mind.com/careers/) | Alexandria | Multiple Interns | Closed |
+|[Social Nuts](https://socialnuts-eg.com/be-nut) | Cairo | N/A | Closed |
+|[Sylnder](https://jobs.lever.co/sylndr/?department=Software%20Engineering) | Cairo | Next.js intern | Closed |
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | **Unpaid Intern** | Closed |
+|[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Multiple Interns | Closed |
+|[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Multiple Interns | Closed |
 ## Collaborators
 We love our collaborators 💜💜
 
