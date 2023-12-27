@@ -44,6 +44,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Codescalers Egypt](https://www.codescalers-egypt.com/careers) | Cairo | Software Development and Software Testing | Closed |
 |[DalO Systems](https://angel.co/company/dalosystems/jobs/1047126-junior-software-engineer-backend-intern) | Remote | Software Engineer | Closed |
 |[Dell](http://bitly.ws/EETR) | Cairo | Multiple Interns | Closed |
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Dsquares](https://dsquares.recruitee.com/) | Cairo | Software Engineer | Closed |
 |[El-Sewedy Electric](https://elsewedyelectric.com/en/careers/) | Cairo | N/A | Closed |
 |[Enozom](https://enozom.com/Company/Join_Us/) | Alexandria | Multiple Interns | Closed |
