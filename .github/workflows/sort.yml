@@ -21,7 +21,8 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         if ! git diff --exit-code; then
+            commit_message=${{ github.event.head_commit.message }}
             git add README.md
-            git commit -am "GH Action Files added $(date)"
+            git commit -am "GH: $commit_message"
             git push -f origin testing
         fi
