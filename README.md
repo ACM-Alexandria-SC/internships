@@ -85,6 +85,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | **Unpaid Intern** | Closed |
 |[Valeo](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/viewform) | Smart vallege - Giza | Multiple Interns | Closed |
 |[Vodafone](https://careers.vodafone.com/) | Hybrid (cairo/giza) | Multiple Interns | Closed |
+|[Xlab](https://xlab-group.com/apply/) | N/A | N/A | Open |
 ## Collaborators
 We love our collaborators 💜💜
 
