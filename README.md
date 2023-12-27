@@ -33,8 +33,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[Zinad](https://zinad.net/internship-program.html) | Giza | CyberSec, Software Development and Project Management | Open |
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
 |[Jumia Interns](https://boards.eu.greenhouse.io/jumia) | Cairo | Frontend, Backend and Data Science | Open (Data Science) |
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | C | Open |
-|[Xlab](https://xlab-group.com/apply/) | N/A | N/A | Open |
 |[Synapse](https://www.synapse-analytics.io/) | Cairo/Hybrid | N/A | Closed |
 |[Advansys](https://www.advansys-esc.com/careers/job-opening/) | N/A | Software Developer | Closed |
 |[Alexandria For Programming](https://wuzzuf.net/jobs/careers/Alexandria-for-programming-Egypt-6203) | Remote | React, Flutter and Web Development | Closed |
