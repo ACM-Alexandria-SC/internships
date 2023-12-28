@@ -1,0 +1,28 @@
+name: Sort README
+on:
+  push:
+    branches:
+      - main
+jobs:
+  sort-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run sort.sh script
+      run: |
+        chmod +x ./sort.sh
+        ./sort.sh
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        if ! git diff --exit-code; then
+            commit_message="${{ github.event.head_commit.message }}"
+            git add README.md
+            git commit -am "GH: $commit_message"
+            git push -f origin main
+        fi
