@@ -25,6 +25,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 ## Internships :necktie:
 | Name  |  Location |  Notes | status |
 |---|---|-------------|--|
+|[Siemens](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Cairo | Long-Term Internship (6 months) in HAV Storage Solutions R&D team in Siemens DISW | Open |
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Worldwide | **Paid Intern** - Full Stack Intern | Open |
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | **Paid Intern** - Open Source Projects | Open |
 |[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform) | Cairo | <b>Unpaid Intern</b> - N/A | Open |
